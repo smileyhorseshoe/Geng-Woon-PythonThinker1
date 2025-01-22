@@ -29,3 +29,6 @@
 # 10. End
 # age = 10
 # print("age")
+x = 10
+x = 20
+print()
