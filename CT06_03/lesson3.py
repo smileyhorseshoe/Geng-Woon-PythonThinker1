@@ -12,5 +12,5 @@
 # Charlie: 98
 # Daniel: 79
 
-# Save the scores into 4 variables .etc - Adam, Brandon, Charlie, Daniel into variables like num1.
-# 
+# Save the scores into 4 variables .etc - Adam, Brandon, Charlie, Daniel into variables like num1 - num4
+# Add the value of num
