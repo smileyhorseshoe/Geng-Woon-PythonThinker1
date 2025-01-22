@@ -114,7 +114,7 @@ print(3 / 2)
 # 4.  a = b = c = 5
 # Valid
 # 5.  a, b = 5, 6
-# Invalid
+# Invalid * valid
 # 6.  b = 5
 #     a = b * 10
 # Valid
