@@ -48,4 +48,5 @@ print(x)
 # Print out the sum ("+") of the 2 numbers
 num1 = 564
 num2 = 468
-ans = num1 +
+ans = num1 + num2
+print(ans)
