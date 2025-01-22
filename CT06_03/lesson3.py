@@ -81,7 +81,7 @@ a = 50
 b = 50
 print(a + b)
 # Task 3b
-print(50 - 10 * 3)
+print((50- 10)* 3)
 # Task 3c
 print(100 / 4)
 # Task 3d
