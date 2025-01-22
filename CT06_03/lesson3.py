@@ -79,4 +79,4 @@
 # b = 50
 # print(a + b)
 # Task 3b
-print()
+print(50 - 10 * 3)
