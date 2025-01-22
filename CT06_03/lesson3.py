@@ -121,5 +121,3 @@ print(3 / 2)
 # 7.  b = 5
 #     a = a * 10
 # Invalid - a is undefined
-Num1 = 5
-print(Num1)
