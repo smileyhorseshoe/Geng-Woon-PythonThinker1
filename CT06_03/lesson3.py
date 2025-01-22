@@ -46,13 +46,13 @@
 # **Task 2a**:
 # Create 2 variables holding 2 different numbers:
 # Print out the sum ("+") of the 2 numbers
-num1 = 564
-num2 = 468
-print(num1 + num1,"(addition)")
-print(num1 - num2,"(subtraction)")
-print(num1 / num2,"(division)")
-print(num1 * num2,"(multiplication)")
-print(2+4*5/6+3-6/2)
+# num1 = 564
+# num2 = 468
+# print(num1 + num1,"(addition)")
+# print(num1 - num2,"(subtraction)")
+# print(num1 / num2,"(division)")
+# print(num1 * num2,"(multiplication)")
+# print(2+4*5/6+3-6/2)
 
 ## Task 3: Mathematics with variables
 # For each of the following questions, create variables to hold
@@ -75,6 +75,6 @@ print(2+4*5/6+3-6/2)
 # **Task 3e**:
 # Calculate and print the result of 3 / 2.
 # Task 3a
-a = 50
-b = 50
-print(a + b)
+# a = 50
+# b = 50
+# print(a + b)
