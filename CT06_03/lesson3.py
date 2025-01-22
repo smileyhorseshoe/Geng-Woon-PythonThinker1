@@ -51,3 +51,4 @@ num2 = 468
 print(num1 + num1,"(addition)")
 print(num1 - num2,"(subtraction)")
 print(num1 / num2,"(division)")
+print(num1 * num2,"(multiplication)")
