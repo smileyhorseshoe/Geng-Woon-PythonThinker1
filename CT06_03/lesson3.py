@@ -42,3 +42,8 @@ print(x)
 # ans = num1 / num2
 # print(ans)
 
+## Task 2: Simple addition calculator
+# **Task 2a**:
+# Create 2 variables holding 2 different numbers:
+# Print out the sum ("+") of the 2 numbers
+
