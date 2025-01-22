@@ -80,7 +80,6 @@
 a = 50
 b = 50
 print(a + b)
-print()
 # Task 3b
 print(50 - 10 * 3)
 # Task 3c
