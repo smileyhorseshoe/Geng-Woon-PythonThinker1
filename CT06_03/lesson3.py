@@ -102,7 +102,7 @@ print(3 / 2)
 # 8. num 1
 # 9. num-1
 # 10. class
-# Answer - 10,
+# Answer - 10,2,
 # Which of the following are INVALID variable assignments?
 # 1.  a = 100
 # Valid
