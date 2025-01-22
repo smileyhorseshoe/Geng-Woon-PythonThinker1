@@ -54,3 +54,23 @@ print(num1 / num2,"(division)")
 print(num1 * num2,"(multiplication)")
 print(2+4*5/6+3-6/2)
 
+## Task 3: Mathematics with variables
+# For each of the following questions, create variables to hold
+# the values given before finally using print(ans) to print the
+# answer:
+
+# **Task 3a**:
+# Create 2 variables 'a' and 'b', assign any number to
+# them and print their sum.
+
+# **Task 3b**:
+# Subtract 10 from 50, then multiply the result by 3.
+
+# **Task 3c**:
+# Divide 100 by 4 and print the result.
+
+# **Task 3d**:
+# Calculate and print the result of (3 + 4) * 5 - (10 / 2).
+
+# **Task 3d**:
+# Calculate and print the result of 3 / 2.
