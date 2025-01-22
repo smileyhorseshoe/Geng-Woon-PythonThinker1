@@ -82,3 +82,4 @@ print(ans)
 # Add the numbers of all the variables(T1, T2, T3) and put it into a variable "ans".
 # Then, print the variable "ans".
 # If the result of the variable "ans" is < than 50%, print failed
+# Else, print "pass"
