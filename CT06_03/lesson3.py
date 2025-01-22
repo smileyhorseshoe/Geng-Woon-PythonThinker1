@@ -120,4 +120,4 @@ print(3 / 2)
 # Valid
 # 7.  b = 5
 #     a = a * 10
-# 
+# Invalid - a is undefined
