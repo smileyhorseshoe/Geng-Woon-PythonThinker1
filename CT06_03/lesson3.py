@@ -1,2 +1,2 @@
 # print("Hello from lesson 3")
-# so
+# so basically today is alot of coding and coding
