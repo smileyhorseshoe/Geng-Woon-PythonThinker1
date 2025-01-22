@@ -15,7 +15,7 @@
 # Save the scores into 4 variables .etc - Adam, Brandon, Charlie, Daniel into variables like num1 - num4
 # Add the value of num1 - num4 and save it to a variable called "average"
 # Divide the variable "average" by the number of persons(4)
-gnhmg
+
 
 # 3.Recap1
 # 1. Start
