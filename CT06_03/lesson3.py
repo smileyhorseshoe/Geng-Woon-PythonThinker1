@@ -108,7 +108,7 @@ print(3 / 2)
 # Valid
 # 2.  b = 5
 #     a = b
-
+#  Valid
 # 3.  100 = a
 
 # 4.  a = b = c = 5
