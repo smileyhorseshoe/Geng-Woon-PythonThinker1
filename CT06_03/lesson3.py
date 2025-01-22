@@ -33,4 +33,5 @@ x = 10
 x = 20
 
 print(x)
-#  wedonotcare
+num1 = 5
+num2 = num1
