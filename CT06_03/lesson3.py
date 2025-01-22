@@ -29,10 +29,10 @@
 # 10. End
 # age = 10
 # print("age")
-x = 10
-x = 20
+# x = 10
+# x = 20
 
-print(x)
+# print(x)
 # num1 = 5
 # num2 = num1
 # ans = num1 - num2
