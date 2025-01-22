@@ -110,9 +110,9 @@ print(3 / 2)
 #     a = b
 #  Valid
 # 3.  100 = a
-
+# Invalid
 # 4.  a = b = c = 5
-
+# 
 # 5.  a, b = 5, 6
 
 # 6.  b = 5
