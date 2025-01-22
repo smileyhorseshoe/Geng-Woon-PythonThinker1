@@ -74,6 +74,8 @@
 
 # **Task 3e**:
 # Calculate and print the result of 3 / 2.
+
+# ACTIVITY
 # Task 3a
 # a = 50
 # b = 50
@@ -84,4 +86,6 @@
 # print(100 / 4)
 # Task 3d
 # print((3+4) * 5 - (10/2))
+# Task 3e
+print(3 / 2)
 
