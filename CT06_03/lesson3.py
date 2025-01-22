@@ -74,3 +74,4 @@ print(2+4*5/6+3-6/2)
 
 # **Task 3e**:
 # Calculate and print the result of 3 / 2.
+# Task 3.0
