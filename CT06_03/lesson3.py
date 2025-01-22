@@ -49,4 +49,4 @@
 num1 = 564
 num2 = 468
 print(num1 + num1,"(addition)")
-print(num1 - num2,"(subtraction")
+print(num1 - num2,"(subtraction)")
