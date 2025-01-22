@@ -14,4 +14,17 @@
 #  To find average - 4 ppl so sum up the score of everyone(4) and divide by 4(the number of the people)
 # Save the scores into 4 variables .etc - Adam, Brandon, Charlie, Daniel into variables like num1 - num4
 # Add the value of num1 - num4 and save it to a variable called "average"
-# Divide the variable "average" by the number of persons(4)s
+# Divide the variable "average" by the number of persons(4)
+gnhmg
+
+# 3.Recap1
+# 1. Start
+# 2. Initialize total_score to 0
+# 3. Add Adam's score to total_score (total_score = total_score + 60)
+# 4. Add Brandon's score to total_score (total_score = total_score + 58)
+# 5. Add Charlie's score to total_score (total_score = total_score + 98)
+# 6. Add Daniel's score to total_score (total_score = total_score + 79)
+# 7. Calculate the number of students (num_students = 4)
+# 8. Calculate the average score (average_score = total_score / num_students)
+# 9. Print the average_score
+# 10. End
