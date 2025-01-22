@@ -87,5 +87,5 @@
 # Task 3d
 # print((3+4) * 5 - (10/2))
 # Task 3e
-print(3 / 2)
+# print(3 / 2)
 
