@@ -31,4 +31,4 @@
 # print("age")
 x = 10
 x = 20
-print()
+print(x)
