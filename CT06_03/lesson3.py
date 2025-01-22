@@ -13,5 +13,5 @@
 # Daniel: 79
 #  To find average - 4 ppl so sum up the score of everyone(4) and divide by 4(the number of the people)
 # Save the scores into 4 variables .etc - Adam, Brandon, Charlie, Daniel into variables like num1 - num4
-# Add the value of num1 - num4
+# Add the value of num1 - num4 and save it to a variable called "average"
 # 
