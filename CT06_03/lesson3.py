@@ -53,3 +53,6 @@ print(num1 - num2,"(subtraction)")
 print(num1 / num2,"(division)")
 print(num1 * num2,"(multiplication)")
 print(2+4*5/6+3-6/2)
+while num2 < num1:
+    print(hi)
+    
