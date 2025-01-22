@@ -81,5 +81,5 @@ print(ans)
 # Then, take the score of test 3 and multiply it by 40%(0.4)(assign the value of this to a valuable called T3)
 # Add the numbers of all the variables(T1, T2, T3) and put it into a variable "ans".
 # Then, print the variable "ans".
-# If the result of the variable "ans" is < than 50%, print failed
+# If the result of the variable "ans" is < than 50%, print "failed"
 # Else, print "pass"
