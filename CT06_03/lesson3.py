@@ -34,3 +34,4 @@ x = 20
 
 print(x)
 syntaxError = 5
+print(syntaxError)
