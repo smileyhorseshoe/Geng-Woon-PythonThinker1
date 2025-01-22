@@ -112,9 +112,9 @@ print(3 / 2)
 # 3.  100 = a
 # Invalid
 # 4.  a = b = c = 5
-# 
+# Valid
 # 5.  a, b = 5, 6
-
+# Invalid
 # 6.  b = 5
 #     a = b * 10
 
