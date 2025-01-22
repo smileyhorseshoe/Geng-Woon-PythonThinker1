@@ -81,3 +81,4 @@
 # Task 3b
 # print(50 - 10 * 3)
 # Task 3c
+print(100 / 4)
