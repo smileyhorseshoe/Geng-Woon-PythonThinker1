@@ -48,4 +48,4 @@
 # Print out the sum ("+") of the 2 numbers
 num1 = 564
 num2 = 468
-print(num1 + num1,"addition")
+print(num1 + num1,"(addition)")
