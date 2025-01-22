@@ -80,3 +80,4 @@
 # print(a + b)
 # Task 3b
 # print(50 - 10 * 3)
+# Task 3c
