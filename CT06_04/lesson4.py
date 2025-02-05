@@ -20,4 +20,5 @@ print(part)
 # Calculate and print the total amount you have spent: -->
 
 #  Calculating red plates
-#  1 red plate = $
+#  1 red plate = $3
+#  1 x $3 = $3
