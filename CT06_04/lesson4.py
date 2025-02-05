@@ -1,6 +1,4 @@
-print("Hello from lesson 4")
-part = 5
-print(part)
+# print("Hello from lesson 4")
 
 # Lesson 4 - Strings
 
@@ -33,6 +31,7 @@ greenPlates = 12
 ans = greenPlates + bluePlates + redPlates
 
 # Printing amount
+print(ans)
 
 
 
