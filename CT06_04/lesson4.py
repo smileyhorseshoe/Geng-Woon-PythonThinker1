@@ -98,4 +98,4 @@ dreamVacation = input("What is your dream vacation destination?")
 print("I would like to vist" + dreamVacation)
 
 #  EXTRA
-print("")
+print("My name is" + myName + ",")
