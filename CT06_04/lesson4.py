@@ -88,5 +88,8 @@
 # Task 2A
 myName = input("What is your name?")
 print("Hello," + myName)
+
+#  TASK 2B
 myHobby = input("What is your favourite hobby?")
 print("Your favourite hobby is" + myHobby)
+
