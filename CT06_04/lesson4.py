@@ -29,6 +29,8 @@ bluePlates = 10
 # Calculating Green plates
 #  4 x $3 = $12
 greenPlates = 12
+# Calculating total
+ans = greenPlates + bluePlates + redPlates
 
 # Printing amount
 
