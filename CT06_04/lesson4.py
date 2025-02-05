@@ -133,4 +133,4 @@
 # print("Dobule your number is " + str(ranNumber))
 
 birthYear = int(input("What is your birth year?"))
-birthyear = birthyear - 2025
+birthYear = birthYear - 2025
