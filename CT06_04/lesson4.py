@@ -61,4 +61,4 @@ print(favColour)
 age = input("What is your age?")
 print(age)
 
-print("Hello", myName , "Your favourite colour is" , favColour , "And you are" , age , "this year.")
+print("Hello", myName , "your favourite colour is" , favColour , "and you are" , age , "this year.")
