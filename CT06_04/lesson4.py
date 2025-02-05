@@ -89,3 +89,4 @@
 myName = input("What is your name?")
 print("Hello," + myName)
 myHobby = input("What is your favourite hobby?")
+print("Your favourite hobby is" + myHobby)
