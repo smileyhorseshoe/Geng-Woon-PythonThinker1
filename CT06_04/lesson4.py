@@ -123,11 +123,11 @@
 # years old".]
 
 #  TASK 3A
-age = int(input("What is your age?"))
-age = age + 1
-print("Next year, you will be " + str(age))
+# age = int(input("What is your age?"))
+# age = age + 1
+# print("Next year, you will be " + str(age))
 
 #  TASK 3b
-ranNumber = int(input("Pick any number."))
-ranNumber = ranNumber * 2
-print("Dobule your number is " + str(ranNumber))
+# ranNumber = int(input("Pick any number."))
+# ranNumber = ranNumber * 2
+# print("Dobule your number is " + str(ranNumber))
