@@ -33,4 +33,4 @@
 # Printing amount
 # print("Your total is", ans, "dollars.")
 myName = input("What is your name?")
-print("Hello", name, )
+print("Hello", myName, "")
