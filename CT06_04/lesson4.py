@@ -58,4 +58,5 @@ favColour = input("What is your favorite colour?")
 print(favColour)
 
 # TASK 1c
-
+age = ("What is your age?")
+print(age)
