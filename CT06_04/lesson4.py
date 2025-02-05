@@ -134,5 +134,5 @@
 
 # TASK 3C
 birthYear = int(input("What is your birth year?"))
-birthYear =birthYear - 2025
+birthYear = 2025 - birthYear
 print("You are " + str(birthYear) + "years old this year")
