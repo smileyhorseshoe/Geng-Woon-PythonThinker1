@@ -131,3 +131,5 @@
 # ranNumber = int(input("Pick any number."))
 # ranNumber = ranNumber * 2
 # print("Dobule your number is " + str(ranNumber))
+
+birthYear = int
