@@ -94,4 +94,4 @@ myHobby = input("What is your favourite hobby?")
 print("Your favourite hobby is" + myHobby)
 
 #  TASK 2C
-dreamVacation = input("")
+dreamVacation = input("What is your dream vacation destination?")
