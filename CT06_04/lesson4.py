@@ -88,4 +88,4 @@
 # Task 2A
 myName = input("What is your name?")
 print("Hello," + myName)
-myHobby = input("")
+myHobby = input("What is your favourite hobby?")
