@@ -50,4 +50,5 @@
 # in a variable. Print the variable.
 
 #  TASK 1a
-
+myName = input("What is your name?")
+print("Hello", myName)
