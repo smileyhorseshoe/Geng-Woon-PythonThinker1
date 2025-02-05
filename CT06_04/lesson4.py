@@ -129,11 +129,13 @@ age = age + 1
 print("Next year, you will be " + str(age))
 
 #  TASK 3b
+print("TASK 3B")
 ranNumber = int(input("Pick any number."))
 ranNumber = ranNumber * 2
 print("Dobule your number is " + str(ranNumber))
 
 # TASK 3C
+print("TASK 3C")
 birthYear = int(input("What is your birth year?"))
 birthYear = 2025 - birthYear
 print("You are " + str(birthYear) + " years old this year")
