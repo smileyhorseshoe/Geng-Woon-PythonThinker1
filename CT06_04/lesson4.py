@@ -30,6 +30,7 @@ bluePlates = 10
 #  4 x $3 = $12
 greenPlates = 12
 
-# 
+# Printing amount
+
 
 
