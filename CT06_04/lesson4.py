@@ -26,6 +26,7 @@ redPlates = 3
 #  Calculating blue plates
 #  5 x $2 = $10
 bluePlates = 10
-
+# Calculating Green plates
+#  4 x $3
 
 
