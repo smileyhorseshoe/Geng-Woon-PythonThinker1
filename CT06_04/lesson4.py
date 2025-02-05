@@ -22,4 +22,4 @@ print(part)
 #  Calculating red plates
 #  1 red plate = $3
 #  1 x $3 = $3
-greenPlates = 13
+greenPlates = 3
