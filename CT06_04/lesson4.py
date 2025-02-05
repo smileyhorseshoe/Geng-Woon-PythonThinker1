@@ -95,4 +95,4 @@ print("Your favourite hobby is" + myHobby)
 
 #  TASK 2C
 dreamVacation = input("What is your dream vacation destination?")
-print("I would like to vist" + dreamVacation + "")
+print("I would like to vist" + dreamVacation)
