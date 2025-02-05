@@ -62,4 +62,4 @@
 # print(age)
 
 # print("Hello,",myName,"your favourite colour is",favColour,"and you are",age,"this year.")
-print("A" + "B")
+# print("A" + "B")
