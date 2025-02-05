@@ -1,2 +1,3 @@
 print("Hello from lesson 4")
-camelCaseDull =
+camelCaseDull = 5
+print(camelCaseDull)
