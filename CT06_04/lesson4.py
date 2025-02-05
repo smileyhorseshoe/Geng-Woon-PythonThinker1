@@ -50,15 +50,15 @@
 # in a variable. Print the variable.
 
 #  TASK 1a
-myName = input("What is your name?")
-print("Hello", myName)
+# myName = input("What is your name?")
+# print("Hello", myName)
 
-# TASK 1b
-favColour = input("What is your favorite colour?")
-print(favColour)
+# # TASK 1b
+# favColour = input("What is your favorite colour?")
+# print(favColour)
 
-# TASK 1c
-age = input("What is your age?")
-print(age)
+# # TASK 1c
+# age = input("What is your age?")
+# print(age)
 
-print("Hello,",myName,"your favourite colour is",favColour,"and you are",age,"this year.")
+# print("Hello,",myName,"your favourite colour is",favColour,"and you are",age,"this year.")
