@@ -132,4 +132,4 @@
 # ranNumber = ranNumber * 2
 # print("Dobule your number is " + str(ranNumber))
 
-birthYear = int
+birthYear = int(input("What is your birth year?"))
