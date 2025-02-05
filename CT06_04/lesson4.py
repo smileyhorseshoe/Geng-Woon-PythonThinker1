@@ -96,3 +96,4 @@ print("Your favourite hobby is" + myHobby)
 #  TASK 2C
 dreamVacation = input("What is your dream vacation destination?")
 print("I would like to vist" + dreamVacation)
+print("Hello," myName + ",Your hobby is" + myHobby + "Your dream vacation holiday place is" + dreamVacation)
