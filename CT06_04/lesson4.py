@@ -28,7 +28,7 @@ bluePlates = 10
 #  4 x $3 = $12
 greenPlates = 12
 # Calculating total
-ans = greenPlates + bluePlates + redPlates
+# ans = greenPlates + bluePlates + redPlates
 
 # Printing amount
-print("Your total is", ans, "dollars.")
+# print("Your total is", ans, "dollars.")
