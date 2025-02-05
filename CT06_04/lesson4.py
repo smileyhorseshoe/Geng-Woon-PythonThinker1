@@ -31,4 +31,4 @@ greenPlates = 12
 ans = greenPlates + bluePlates + redPlates
 
 # Printing amount
-print(ans)
+print("Your total is", ans, "dollars.")
