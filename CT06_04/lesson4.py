@@ -128,4 +128,4 @@ print("Next year, you will be " + str(age))
 #  TASK 3b
 ranNumber = int(Input("Pick any number."))
 ranNumber = ranNumber * 2
-print
+print("Dobule your number is " + ranNumber)
