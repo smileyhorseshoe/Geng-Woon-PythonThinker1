@@ -22,8 +22,10 @@ print(part)
 #  Calculating red plates
 #  1 red plate = $3
 #  1 x $3 = $3
-redplates = 3
+redPlates = 3
 #  Calculating blue plates
 #  5 x $2 = $10
+bluePlates = 10
+
 
 
