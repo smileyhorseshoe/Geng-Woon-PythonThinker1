@@ -17,3 +17,4 @@
 # ### Sample output:
 # "Happy <Age>th birthday <Name>! <Message>"
 birthdayName = input("What is your name")
+int(input("What is your age?"))
