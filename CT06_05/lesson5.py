@@ -59,3 +59,6 @@
 
 # Print the sentence "I like chicken rice." 100 times using the
 # 'for' loop
+
+for i in range(101):
+    print("I like chicken rice.")
