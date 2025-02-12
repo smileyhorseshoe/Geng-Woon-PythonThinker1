@@ -104,10 +104,12 @@ number1 = int(input("First number?"))
 number2 = int(input("Second number?"))
 if number1 < number2:
     print("number1 less than number2")
+    for i in range(number1 , number2 +1):
+        print(i)
 else:
     print("number1 more than number2")
+    for i in range(number1 , number2 -1, -1):
+        print(i)
     
-for i in range(number1 , number2):
-    print(i)
-for i in range(number1 , number2 , -1):
-    print(i)
+# for i in range(number1 , number2 , -1):
+#     print(i)
