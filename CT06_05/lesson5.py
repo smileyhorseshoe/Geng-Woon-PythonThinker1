@@ -24,4 +24,4 @@
 # print("Happy " + str(age)+"th birthday," + birthdayName  + "!" + msg)
 for i in range(1000):
     print("I will not sling mud at my friends again.")
-    define
+    
