@@ -50,4 +50,3 @@
 Name = input("WHat is your name?")
 for char in Name:
     print("Give me a "+ char + "!")
-    
