@@ -101,4 +101,5 @@
 # What happens if the user inputs a higher start number than stop?
 # Modify your code to be able to handle that scenario.
 number1 = int(input("First number?"))
-number2 = int(input("What is the second number?"))
+number2 = int(input("Second number?"))
+
