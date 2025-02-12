@@ -18,4 +18,4 @@
 # "Happy <Age>th birthday <Name>! <Message>"
 birthdayName = input("What is your name")
 age = int(input("What is your age?"))
-print("Happy" , str(age) , "th birthday," , birthdayName , "!" , )
+print("Happy" , str(age) , "th birthday," , birthdayName , "!" , "" )
