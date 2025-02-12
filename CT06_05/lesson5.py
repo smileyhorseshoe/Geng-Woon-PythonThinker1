@@ -54,3 +54,8 @@
 # print("What do we have?")
 # print(Name + "!")
 
+
+## Task 2: Repeated Sentence Loop
+
+# Print the sentence "I like chicken rice." 100 times using the
+# 'for' loop
