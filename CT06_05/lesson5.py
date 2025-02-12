@@ -73,3 +73,6 @@
 
 # **Task 5c**:
 # Print numbers from 18 to 29 using a 'for' loop.
+#  Task 5A
+for i in range(1 , 6):
+    print(i)
