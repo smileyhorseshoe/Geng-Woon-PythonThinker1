@@ -111,5 +111,4 @@ else:
     for i in range(number1 , number2 -1, -1):
         print(i)
     
-# for i in range(number1 , number2 , -1):
-#     print(i)
+print()
