@@ -78,5 +78,8 @@
 for i in range(2 , 25, 2):
     print(i)
 #  Task 6b
-for i in range(8 , 97 , 8)
+for i in range(8 , 97 , 8):
+    print(i)
+#  Task 6c
+
 
