@@ -104,3 +104,5 @@ number1 = int(input("First number?"))
 number2 = int(input("Second number?"))
 for i in range(number1 , number2):
     print(i)
+for i in range(number1 , number2 , -1):
+    print(i)
