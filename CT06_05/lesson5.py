@@ -48,6 +48,6 @@
 #     Notice how "Give me a..." is repeated!
 #     Which function should you be using?
 Name = input("WHat is your name?")
-for char in "Hello":
+for char in Name:
     print(char)
     
