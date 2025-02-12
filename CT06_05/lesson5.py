@@ -53,4 +53,5 @@
 #     print("Give me a "+ char + "!")
 # print("What do we have?")
 # print(Name + "!")
-
+for i in range(10):
+    print
