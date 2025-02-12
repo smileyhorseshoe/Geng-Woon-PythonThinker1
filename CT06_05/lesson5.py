@@ -62,3 +62,5 @@
 # Task 2
 # for i in range(100):
 #     print("I like chicken rice.")
+for i in range(1 , 1000 , 3):
+    print(i)
