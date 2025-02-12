@@ -19,4 +19,4 @@
 birthdayName = input("What is your name?")
 age = int(input("What is your age?"))
 msg = input("What is a special message you'd like to send?")
-print("Happy" , str(age),"th birthday," , birthdayName , "!" , msg)
+print("Happy" + str(age) +"th birthday," , birthdayName , "!" , msg)
