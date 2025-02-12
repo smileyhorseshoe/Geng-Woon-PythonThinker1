@@ -76,5 +76,6 @@
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
 #  Task 6A
 for i in range(2 , 25, 2):
-    print()
+    print(i)
+
 
