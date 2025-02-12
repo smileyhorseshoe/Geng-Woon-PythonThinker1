@@ -102,6 +102,10 @@
 # Modify your code to be able to handle that scenario.
 number1 = int(input("First number?"))
 number2 = int(input("Second number?"))
+if number1 < number2:
+    print("number1 less than number2")
+else:
+    print("number2 less than number2")
 for i in range(number1 , number2):
     print(i)
 for i in range(number1 , number2 , -1):
