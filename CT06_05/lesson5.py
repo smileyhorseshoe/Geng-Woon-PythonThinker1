@@ -60,5 +60,5 @@
 # Print the sentence "I like chicken rice." 100 times using the
 # 'for' loop
 # Task 2
-for i in range(100):
-    print("I like chicken rice.")
+# for i in range(100):
+#     print("I like chicken rice.")
