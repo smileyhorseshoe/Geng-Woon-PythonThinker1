@@ -102,4 +102,5 @@
 # Modify your code to be able to handle that scenario.
 number1 = int(input("First number?"))
 number2 = int(input("Second number?"))
-
+for i in range(number1 , number2):
+    print(i)
