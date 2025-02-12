@@ -51,4 +51,4 @@ Name = input("WHat is your name?")
 for char in Name:
     print("Give me a "+ char + "!")
 print("What do we have?")
-print(char + "!")
+print(Name + "!")
