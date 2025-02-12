@@ -22,5 +22,5 @@
 # msg = input("What is a special message you'd like to send?")
 
 # print("Happy " + str(age)+"th birthday," + birthdayName  + "!" + msg)
-for i in range(100):
+for i in range(1000):
     print("I will not sling mud at my friends again.")
