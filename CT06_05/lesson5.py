@@ -48,5 +48,5 @@
 #     Notice how "Give me a..." is repeated!
 #     Which function should you be using?
 Name = input("WHat is your name?")
-for char in Name:
+for char in [Name]:
     print(Name)
