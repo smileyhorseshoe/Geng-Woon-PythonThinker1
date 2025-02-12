@@ -49,5 +49,5 @@
 #     Which function should you be using?
 Name = input("WHat is your name?")
 for char in Name:
-    print("Give me a "+ char)
+    print("Give me a "+ char + "!")
     
