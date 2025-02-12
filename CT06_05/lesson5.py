@@ -75,15 +75,15 @@
 # **Task 6c**:
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
 #  Task 6A
-for i in range(2 , 25, 2):
-    print(i)
-print("Task 6a done")
-#  Task 6b
-for i in range(8 , 97 , 8):
-    print(i)
-print("Task 6b done")
-#  Task 6c
-for i in range(5 , 0 , -1):
-    print(i)
-print("Task 6c done")
+# for i in range(2 , 25, 2):
+#     print(i)
+# print("Task 6a done")
+# #  Task 6b
+# for i in range(8 , 97 , 8):
+#     print(i)
+# print("Task 6b done")
+# #  Task 6c
+# for i in range(5 , 0 , -1):
+#     print(i)
+# print("Task 6c done")
 
