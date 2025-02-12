@@ -47,8 +47,9 @@
 # Note:
 #     Notice how "Give me a..." is repeated!
 #     Which function should you be using?
-Name = input("WHat is your name?")
-for char in Name:
-    print("Give me a "+ char + "!")
-print("What do we have?")
-print(Name + "!")
+# TASK 1
+# Name = input("WHat is your name?")
+# for char in Name:
+#     print("Give me a "+ char + "!")
+# print("What do we have?")
+# print(Name + "!")
