@@ -80,6 +80,7 @@ for i in range(2 , 25, 2):
 #  Task 6b
 for i in range(8 , 97 , 8):
     print(i)
+print("Task 6b done")
 #  Task 6c
 for i in range(5 , 0 , -1):
     print(i)
