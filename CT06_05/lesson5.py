@@ -65,9 +65,6 @@
 # for i in range(100 , 0 , -1):
 #     print(i)
 
-    
-    
-
 
 # **Task 6a**:
 # Use a 'for' loop to print numbers from 2 to 24 in multiples of 2.
@@ -77,3 +74,7 @@
 
 # **Task 6c**:
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
+#  Task 6A
+for i in range(2 , 25, 2):
+    print()
+
