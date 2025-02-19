@@ -13,4 +13,4 @@
 # well as a 'for' loop.
 StudentNum = input("How many people do you have in your class?")
 for StudentNum in range(StudentNum):
-    
+    Marks = input("What are your marks?")
