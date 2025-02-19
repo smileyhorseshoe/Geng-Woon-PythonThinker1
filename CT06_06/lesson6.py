@@ -12,4 +12,3 @@
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop.
 marks = int(input("What are your marks?(0-100)"))
-marks
