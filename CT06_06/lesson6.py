@@ -13,7 +13,7 @@
 # well as a 'for' loop.
 StudentNum = int(input("How many people do you have in your class?"))
 for StudentNum in range(StudentNum):
-    Marks = int(input("What are your marks?"))
+    Marks = int(input("What are thier marks?"))
     Marks = Marks + StudentNum
 Marks = Marks / StudentNum
 print(Marks)
