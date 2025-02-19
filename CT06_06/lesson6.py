@@ -16,3 +16,4 @@ for StudentNum in range(StudentNum):
     Marks = Marks + int(input("What are their marks?"))
 Marks = Marks / StudentNum
 print("My sum is:" + str(Marks))
+print("My average is" + str(Marks / StudentNum))
