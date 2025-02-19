@@ -12,6 +12,7 @@
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop.
 StudentNum = int(input("How many people do you have in your class?"))
+Marks = 0
 for StudentNum in range(StudentNum):
     Marks = Marks + int(input("What are their marks?"))
 Marks = Marks / StudentNum
