@@ -15,4 +15,4 @@ StudentNum = int(input("How many people do you have in your class?"))
 for StudentNum in range(StudentNum):
     Marks = Marks + int(input("What are their marks?"))
 Marks = Marks / StudentNum
-print(Marks)
+print("My sum is:" + str(Marks))
