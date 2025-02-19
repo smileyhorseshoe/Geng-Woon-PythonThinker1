@@ -11,6 +11,6 @@
 
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop.
-StudentNum = input("How many people do you have in your class?")
+StudentNum = int(input("How many people do you have in your class?"))
 for StudentNum in range():
     Marks = input("What are your marks?")
