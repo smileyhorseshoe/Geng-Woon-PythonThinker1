@@ -10,4 +10,4 @@
 # each student one at a time.
 
 # Use only variables, math operators that you have learnt, as
-# well as a 'for' loop.
+# well as a 'for' loop
