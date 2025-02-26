@@ -2,8 +2,8 @@
 
 ## Recap 1: Debugging Average Score Program
 
-### There is a total of 3 bugs in the following program.
-### Identify and fix the bugs:
+# ## There is a total of 3 bugs in the following program.
+# ## Identify and fix the bugs:
 
 # score_one = 80
 # score_two = 90
@@ -18,7 +18,7 @@
 # print("Average score for " + student_name + " is: " + str(average_score))
 # Changes made: Changed variable average_score to string from integer.
 
-## Task 9: Accumulative Sum in Loop
+# # Task 9: Accumulative Sum in Loop
 
 # 1. Create a variable 'num' and assign the integer "0" to it
 # 2. Create a 'for' loop that repeats 10 times
