@@ -104,3 +104,4 @@
 # burger
 # burger
 # Task 4
+word = input(str())
