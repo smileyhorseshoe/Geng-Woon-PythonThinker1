@@ -85,3 +85,6 @@
 # for i in range(2, 21, 2):
 #     print(i)
 # Task 2 Done
+# TASK 3
+for i in range(10 , 1):
+    print(i)
