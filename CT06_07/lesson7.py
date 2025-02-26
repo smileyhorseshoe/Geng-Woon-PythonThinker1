@@ -147,4 +147,5 @@
 number = 0
 
 for _ in range(5):
-    n
+    number = int(input("What is your next number?"))
+    
