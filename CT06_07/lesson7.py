@@ -144,4 +144,4 @@
 # output:
 # Sum of the 5 numbers is 19 
 num1 = int(input("What is the first number in numerals?"))
-num1 = int(input("What is the first number in numerals?"))
+num2 = int(input("What is the first number in numerals?"))
