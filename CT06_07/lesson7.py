@@ -146,7 +146,8 @@
 # Task 6
 number = 0
 sum = 0
+point = 1
 for _ in range(5):
-    number = int(input("What is your next number?"))
+    number = int(input("What is your " ))
     sum = sum + number
 print("The sum of the 5 numbers you have chosen is " + str(sum))
