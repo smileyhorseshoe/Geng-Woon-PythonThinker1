@@ -168,5 +168,4 @@ for i in range(12):
     numberTimes = numberTimes * i
     print( str(numberTimes) + "x" , str(i) , str(numberTimes))
 
-
     
