@@ -149,3 +149,4 @@ sum = 0
 for _ in range(5):
     number = int(input("What is your next number?"))
     sum = sum + number
+print(sum)
