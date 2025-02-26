@@ -82,5 +82,6 @@
 #     print(i)
 # print("Task 1 done")
 #  TASK 2
-for i in range(2, 21, 2):
-    print(i)
+# for i in range(2, 21, 2):
+#     print(i)
+# Task 2 Done
