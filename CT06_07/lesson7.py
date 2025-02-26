@@ -146,3 +146,4 @@
 # Task 6
 num1 = int(input("What is the first number in numerals?"))
 num2 = int(input("What is the second number in numerals?"))
+num3 = int(input("What is the third number in numerals?"))
