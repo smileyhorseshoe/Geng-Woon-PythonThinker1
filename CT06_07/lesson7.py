@@ -182,5 +182,5 @@
 
 # Hint: You can use a code like this >>> print("a" * 5) => aaaaa
 number = int(input("choose a number and enter it in numerals"))
-for i in range(0 , number + 5):
+for i in range(1 , number + 1):
     print(str(number) * i)
