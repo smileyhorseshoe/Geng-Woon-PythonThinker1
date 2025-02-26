@@ -86,6 +86,6 @@
 #     print(i)
 # Task 2 Done
 # TASK 3
-for i in range(10 , 0 , -1):
-    print(i)
+# for i in range(10 , 0 , -1):
+#     print(i)
 # Task 3 Done
