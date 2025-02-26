@@ -168,4 +168,4 @@ numberTimes = int(input("What number for the timestable in numeral(will be print
 for i in range(1 , 13):
     print( str(numberTimes) + " x" , str(i) , "=" , str(numberTimes * i))
 
-    
+    jgjgjgjgjggggjgjgjgjgjgjgjgjgjgggggjgjgjgjgggggjgjgjgjgggjgggggjggggjgjgggjgjggjggjgggjgggjgjhjyy
