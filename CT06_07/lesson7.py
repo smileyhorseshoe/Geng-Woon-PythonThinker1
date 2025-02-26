@@ -180,7 +180,7 @@
 # 4444
 # 55555
 
-# Hint: You can use a code like this >>> print("a" * 5) 
+# Hint: You can use a code like this >>> print("a" * 5) => aaaaa
 number = int(input("choose a number and enter it in numerals"))
 for i in range(number + 5):
-    print()
+    print(str(number * 5))
