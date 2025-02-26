@@ -107,3 +107,17 @@
 # word = input("Choose and enter one word.")
 # for _ in range(3):
 #     print(word)
+
+## Task 5: Personalized Greeting Loop
+
+# Ask for a user's name and an integer n, then print a
+# personalized greeting n times.
+
+# Example:
+# What is your name? <<burger>>
+# How many times would you like to repeat? << 3 >>
+
+# output:
+# Nice to meet you, burger
+# Nice to meet you, burger
+# Nice to meet you, burger
