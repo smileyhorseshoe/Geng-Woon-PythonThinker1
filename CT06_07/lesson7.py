@@ -163,3 +163,4 @@ print("The sum of the 5 numbers you have chosen is " + str(sum))
 # ....
 # ..
 # 5 x 12 = 60
+numberTimes = int(input("What number for the timestable in numeral(will be printed 12 times.)"))
