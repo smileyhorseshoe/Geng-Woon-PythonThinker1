@@ -165,7 +165,7 @@
 # 5 x 12 = 60
 
 numberTimes = int(input("What number for the timestable in numeral(will be printed 12 times.)"))
-for i in range(1):
+for i in range(1 , 13):
     print( str(numberTimes) + " x" , str(i) , "=" , str(numberTimes * i))
 
     
