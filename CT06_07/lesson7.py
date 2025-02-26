@@ -181,4 +181,4 @@
 # 55555
 
 # Hint: You can use a code like this >>> print("a" * 5) 
-number = input("choose a number and enter it in numerals")
+number = int(input("choose a number and enter it in numerals"))
