@@ -104,4 +104,6 @@
 # burger
 # burger
 # Task 4
-word = input("Choose one word.")
+word = input("Choose and enter one word.")
+for i in range(3):
+    print(word)
