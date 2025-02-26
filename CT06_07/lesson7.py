@@ -146,8 +146,7 @@
 # Task 6
 number = 0
 sum = 0
-point = 1
-for _ in range(5):
+for i in range(5):
     number = int(input("What is number # "+str(point) + "?"))
     sum = sum + number
     point = point + 1
