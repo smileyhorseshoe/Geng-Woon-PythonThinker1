@@ -78,7 +78,9 @@
 # Use a 'for' loop and range() to count down from 10 to 1.
 
 #  TASK 1
-for i in range (1 , 11):
-    print(i)
-print("Task 1 done")
+# for i in range (1 , 11):
+#     print(i)
+# print("Task 1 done")
 #  TASK 2
+for i in range(2, 21, 2):
+    print(i)
