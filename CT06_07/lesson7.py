@@ -146,6 +146,6 @@
 # Task 6
 sum = 0
 for i in range(1 , 6):
-    sum = sum + = int(input("What is number # "+str(i) + "?"))
-    
+    sum = sum + int(input("What is number # "+str(i) + "?"))
+
 print("The sum of the 5 numbers you have chosen is " + str(sum))
