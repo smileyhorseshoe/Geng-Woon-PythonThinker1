@@ -147,7 +147,6 @@
 number = 0
 sum = 0
 for i in range(5):
-    number = int(input("What is number # "+str(point) + "?"))
+    number = int(input("What is number # "+str(i) + "?"))
     sum = sum + number
-    point = point + 1
 print("The sum of the 5 numbers you have chosen is " + str(sum))
