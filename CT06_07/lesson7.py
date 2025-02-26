@@ -125,4 +125,5 @@
 # Task 5
 userName = input("What is your name?")
 repeatingTimes = int(input("How many times would you like to repeat the greeting(in numerals)?"))
-for _ in range(repeatingTimes)
+for _ in range(repeatingTimes):
+    print("Nice to meet you, "userName)
