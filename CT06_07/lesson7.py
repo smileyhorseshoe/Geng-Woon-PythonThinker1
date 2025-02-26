@@ -104,4 +104,4 @@
 # burger
 # burger
 # Task 4
-word = str((input))
+word = input("Choose one word.")
