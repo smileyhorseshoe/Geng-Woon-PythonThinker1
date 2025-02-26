@@ -144,11 +144,11 @@
 # output:
 # Sum of the 5 numbers is 19 
 # Task 6
-sum = 0
-for i in range(1 , 6):
-    sum = sum + int(input("What is number # "+str(i) + "?"))
+# sum = 0
+# for i in range(1 , 6):
+#     sum = sum + int(input("What is number # "+str(i) + "?"))
 
-print("The sum of the 5 numbers you have chosen is " + str(sum))
+# print("The sum of the 5 numbers you have chosen is " + str(sum))
 
 ## Task 7: Multiplication Table Generator
 
@@ -164,3 +164,5 @@ print("The sum of the 5 numbers you have chosen is " + str(sum))
 # ..
 # 5 x 12 = 60
 numberTimes = int(input("What number for the timestable in numeral(will be printed 12 times.)"))
+for i in range(12):
+    print
