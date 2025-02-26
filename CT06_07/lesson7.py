@@ -150,4 +150,5 @@ point = 1
 for _ in range(5):
     number = int(input("What is number # "+str(point) + "?"))
     sum = sum + number
+    point = point + 1
 print("The sum of the 5 numbers you have chosen is " + str(sum))
