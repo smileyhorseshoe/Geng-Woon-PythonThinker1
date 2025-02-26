@@ -144,7 +144,6 @@
 # output:
 # Sum of the 5 numbers is 19 
 # Task 6
-number = 0
 sum = 0
 for i in range(5):
     number = int(input("What is number # "+str(i) + "?"))
