@@ -16,4 +16,4 @@ average_score = total / 3
 student_name = "Alex"
 
 print("Average score for " + student_name + " is: " + str(average_score))
-# Changes made: Changed variable average_score to string from integery
+# Changes made: Changed variable average_score to string from integer
