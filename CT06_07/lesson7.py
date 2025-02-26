@@ -144,5 +144,7 @@
 # output:
 # Sum of the 5 numbers is 19 
 # Task 6
-for i in range(5):
-    
+number = 0
+
+for _ in range(5):
+    n
