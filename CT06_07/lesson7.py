@@ -88,44 +88,5 @@
 # TASK 3
 # for i in range(10 , 0 , -1):
 #     print(i)                            
-# Task 3 Done
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-==============
+# Task 3 Done 
+Line 92 is crazy sia
