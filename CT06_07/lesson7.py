@@ -17,3 +17,38 @@ student_name = "Alex"
 
 print("Average score for " + student_name + " is: " + str(average_score))
 # Changes made: Changed variable average_score to string from integer.
+
+## Task 9: Accumulative Sum in Loop
+
+# 1. Create a variable 'num' and assign the integer "0" to it
+# 2. Create a 'for' loop that repeats 10 times
+# 3. Add the sum of 'num' and the loop's parameter and print out
+#    the value.
+# 4. Observe what happens.
+
+# Example:
+# 1st iteration
+#     num = num + i
+#     print(num)
+
+# 2nd iteration
+#     num = num + i
+#     print(num)
+
+# ...
+
+# 10th iteration
+#     num = num + i
+#     print(num)
+
+# Output:
+#     0
+#     1
+#     3
+#     6
+#     10
+#     15
+#     21
+#     28
+#     36
+#     45
