@@ -9,3 +9,4 @@ end = input("What is your ending number?")
 #  Asking the user for the 2nd number via an input(variable named "end")
 increment = input("What is your third number(increment)?")
 # Asking the user for the 3rd number via an input(increment)
+ans = s
