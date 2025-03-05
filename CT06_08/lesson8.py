@@ -3,4 +3,5 @@
 # print("Nice to meet you, " + name +"!")
 # # Printing a welcome script with their name given in the input.
 # 
-start = input("W")
+start = input("What is your starting number?")
+# Asking the user for the 
