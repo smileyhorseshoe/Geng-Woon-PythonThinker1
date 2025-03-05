@@ -5,3 +5,4 @@
 # 
 start = input("What is your starting number?")
 # Asking the user for the number via a input(variable named "start")
+end = input("What is your ending number?")
