@@ -12,7 +12,7 @@ increment = input("What is your third number(increment)?")
 ans = int(start) + int(increment)
 # Adding the variables up to make the total.
 for _ in range(start , end):
-    print(start + increment)
+    print(int(start) + int(increment)
 # Printing the output for the variable 'ans' and 'start' as shown in the Test Cases.
 
 # Test Case 1
