@@ -184,3 +184,5 @@
 number = int(input("choose a number and enter it in numerals"))
 for i in range(1 , number + 1):
     print(str(i) * i)
+if number < start:
+    
