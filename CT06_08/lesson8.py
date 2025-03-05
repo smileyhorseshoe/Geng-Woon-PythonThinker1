@@ -13,3 +13,20 @@ ans = int(start) + int(increment)
 # Adding the variables up to make the total.
 print(start , "," , ans)
 # Printing the output for the variable 'ans' and 'start' as shown in the Test Cases.
+
+# Test Case 1
+
+# Start: 4
+# End: 10
+# Increment: 2
+
+# Output: 4, 6, 8
+
+# Test Case 2
+
+# Start: 7
+# End: 1
+# Increment: -3
+
+# Output: 7, 4
+
