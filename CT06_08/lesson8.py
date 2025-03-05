@@ -16,22 +16,5 @@ for i in range(start , end , increment):
     print(i)
     i = start + increment
 # Creating a repeat loop that adds the current number by the increment(e.g. 5 + 2 = 7 , 7 + 2 = 9) and stopping once the next multiple is the end number.
-    
 
-
-# Test Case 1
-
-# Start: 4
-# End: 10
-# Increment: 2
-
-# Output: 4, 6, 8
-
-# Test Case 2
-
-# Start: 7
-# End: 1
-# Increment: -3
-
-# Output: 7, 4
 
