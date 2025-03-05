@@ -16,6 +16,7 @@ increment = int(input("What is your third number(increment)?"))
 for i in range(start , end):
     ans = start + increment
     print(ans)
+    
 
 
 # Test Case 1
