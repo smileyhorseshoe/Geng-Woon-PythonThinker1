@@ -11,7 +11,8 @@ increment = input("What is your third number(increment)?")
 # Asking the user for the 3rd number via an input(increment)
 ans = int(start) + int(increment)
 # Adding the variables up to make the total.
-print(start , "," , ans)
+for _ in range(start , end):
+    print
 # Printing the output for the variable 'ans' and 'start' as shown in the Test Cases.
 
 # Test Case 1
