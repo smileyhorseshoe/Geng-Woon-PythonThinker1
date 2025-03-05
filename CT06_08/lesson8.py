@@ -14,7 +14,7 @@ increment = int(input("What is your third number(increment)?"))
 
 for _ in range(start , end):
     print(start + increment)
-# Printing the output for the variable 'ans' and 'start' as shown in the Test Cases.
+
 
 # Test Case 1
 
