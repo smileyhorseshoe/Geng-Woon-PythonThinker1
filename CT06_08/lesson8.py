@@ -3,3 +3,4 @@
 # print("Nice to meet you, " + name +"!")
 # # Printing a welcome script with their name given in the input.
 # 
+start = input("W")
