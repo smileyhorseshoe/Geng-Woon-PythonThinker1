@@ -7,4 +7,4 @@ start = input("What is your starting number?")
 # Asking the user for the first number via a input(variable named "start")
 end = input("What is your ending number?")
 #  Asking the user for the 2nd number via a input(variable named "end")
-increment = 
+increment = input("What is the number you want an increment?")
