@@ -4,4 +4,4 @@
 # # Printing a welcome script with their name given in the input.
 # 
 start = input("What is your starting number?")
-# Asking the user for the 
+# Asking the user for the number via a input(variable named "start")
