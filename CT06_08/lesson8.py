@@ -15,7 +15,7 @@ increment = int(input("What is your third number(increment)?"))
 for i in range(start , end , increment):
     print(i)
     i = start + increment
-# Creating a repeat loop that prints the next number(start + increment)
+# Creating a repeat loop that prints the 
     
 
 
