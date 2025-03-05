@@ -10,6 +10,7 @@ end = int(input("What is your ending number?"))
 increment = int(input("What is your third number(increment)?"))
 # Asking the user for the 3rd number via an input(increment)
 
+#  Additional note: All numbers asked for has been converted to integers instead of strings.
 
 for _ in range(start , end):
     print(start + increment)
