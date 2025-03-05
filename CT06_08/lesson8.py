@@ -12,6 +12,7 @@ increment = int(input("What is your third number(increment)?"))
 
 #  Additional note: All numbers asked for has been converted to integers instead of strings.
 
+
 for _ in range(start , end):
     print(start + increment)
 
