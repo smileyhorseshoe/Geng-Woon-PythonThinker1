@@ -10,4 +10,5 @@ end = input("What is your ending number?")
 increment = input("What is your third number(increment)?")
 # Asking the user for the 3rd number via an input(increment)
 ans = int(start) + int(increment)
+# Adding the variables up to make the total.
 print(start , ans)
