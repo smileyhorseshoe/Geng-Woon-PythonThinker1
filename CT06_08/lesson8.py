@@ -12,4 +12,5 @@ num = 0
 for i in range(5):
     i = int(input("What is the next number?"))
     num = num * i
+    i = i + 1
 print(num)
