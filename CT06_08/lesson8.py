@@ -90,7 +90,8 @@
 # # TASK 4A:
 import random
 for i in range(2):
-    print(random.randit())
+    print(random.randit(1, 50))
+    
 # The output should be one of the following:
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
