@@ -8,7 +8,7 @@
 # 1. Using a for loop, ask the user for 5 numbers one at a time.
 # 2. Calculate the multiplication for these 5 numbers and print
 #    it out.
-num = 0
-for i in range(5):
-    num = num * int(input("What number is" + str(i + 1)))
-print(num)
+# num = 0
+# for i in range(5):
+#     num = num * int(input("What number is" + str(i + 1)))
+# print(num)
