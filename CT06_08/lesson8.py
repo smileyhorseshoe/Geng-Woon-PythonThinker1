@@ -118,4 +118,4 @@
 import random
 randomNumber = random.randint(1 , 50)
 startingNumber = int(input("Starting number?"))
-endingNumber = int("Ending number?")
+endingNumber = int(input("Ending number?"))
