@@ -29,4 +29,8 @@ for i in range(10 , 0 , -1):
     time.sleep(1)
 print(" 1A Done")
 # 1B
+startingNum = int(input("What is the starting number?(Countdown ends at 1)"))
+for i in range(startingNum , 0 , -1):
+    print(i)
+
 
