@@ -134,3 +134,4 @@
 # 2. False (If the answer is wrong)
 import random
 guess = int(input("What is the number that you are guessing?"))
+num1 = random.randint(1 , 10)
