@@ -24,7 +24,7 @@
 # asking the user for the number to countdown from, before
 # counting down every second from the number given by the user.
 import time
-for i in range(11 , 1 , -1):
+for i in range(10 , 0 , -1):
     print(i)
     time.sleep(1)
 print("Done")
