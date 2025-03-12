@@ -10,5 +10,5 @@
 #    it out.
 num = 0
 for i in range(5):
-    num = int(input("What number is" + str(i)))
+    num = num * int(input("What number is" + str(i)))
 print(num)
