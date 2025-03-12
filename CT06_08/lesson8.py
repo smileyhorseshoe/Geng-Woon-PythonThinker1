@@ -50,7 +50,7 @@
 # **Task 2b**:
 # Using the 'random' library, create 20 numbers between 0 and
 # 9999 randomly.
-# # TASK 2B:
+# # TASK 2B: DONE
 import random
 for i in range(20):
     num1 = random.randint(0 , 9999)
