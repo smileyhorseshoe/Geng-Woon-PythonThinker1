@@ -13,4 +13,3 @@
 #     num = num * int(input("What number is" + str(i + 1)))
 # print(num)
 import time
-time.time()
