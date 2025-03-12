@@ -91,7 +91,7 @@
 import random
 num1 = random.randint(1 , 50)
 num2 = random.randint(1 , 50)
-total = num2 + num2
+total = num1 + num2
 ans = int(input(str(num1) + "+" + str(num2) + "="))
 print(ans == total)
 # The output should be one of the following:
