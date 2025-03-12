@@ -135,3 +135,4 @@
 import random
 guess = int(input("What is the number that you are guessing?(1 - 10)"))
 num1 = random.randint(1 , 10)
+print(guess == num1)
