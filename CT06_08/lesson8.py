@@ -25,4 +25,5 @@
 # counting down every second from the number given by the user.
 import time
 for i in range(11 , 1 , -1):
-    print
+    print(i)
+    
