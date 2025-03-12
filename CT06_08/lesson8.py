@@ -149,7 +149,7 @@
 # Each question should involve multiplying 2 random numbers
 # between 1 and 10. The user should input the number of questions
 # they want to attempt.
-numQuestions = input("What is the numver of questions you want to attempt?")
+numQuestions = int(input("What is the numver of questions you want to attempt?"))
 for i in range(numQuestions):
     num1 = random.randint(1 , 10)
     num2 = random.randint(1 , 10)
