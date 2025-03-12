@@ -71,7 +71,7 @@
 # TASK 3B:
 var1 = True
 var2 = True
-var1 
+print(var1 == var2)
 # **Task 3c**:
 # Now, assign 1 variable the "True" boolean, and assign another
 # variable the "False" boolean.
