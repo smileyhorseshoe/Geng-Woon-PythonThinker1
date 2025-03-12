@@ -128,9 +128,7 @@
 #    you are guessing
 # b. Create a variable called 'num1' and assign a random integer
 #    between 1 to 10.
-
 # Your program will check if 'guess' is equal to 'num1'.
-
 # The output should be one of the following:
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
