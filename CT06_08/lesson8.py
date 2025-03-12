@@ -10,5 +10,5 @@
 #    it out.
 for i in range(5):
     i = int(input("What is the next number?"))
-    i * i
+    i = i * i
 print(i)
