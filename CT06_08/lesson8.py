@@ -26,4 +26,5 @@
 import time
 for i in range(11 , 1 , -1):
     print(i)
-    
+    time.sleep(1)
+print("Done")
