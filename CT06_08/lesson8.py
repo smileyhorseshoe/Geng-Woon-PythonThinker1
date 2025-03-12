@@ -88,12 +88,12 @@
 # Using the 'random' library, generate 2 numbers between 1 and 50
 # that the user must add together.
 # # TASK 4A:
-import random
-num1 = random.randint(1 , 50)
-num2 = random.randint(1 , 50)
-total = num1 + num2
-ans = int(input(str(num1) + "+" + str(num2) + "="))
-print(ans == total)
+# import random
+# num1 = random.randint(1 , 50)
+# num2 = random.randint(1 , 50)
+# total = num1 + num2
+# ans = int(input(str(num1) + "+" + str(num2) + "="))
+# print(ans == total)
 # The output should be one of the following:
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
@@ -115,5 +115,7 @@ print(ans == total)
 # The output should be one of the following:
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
+import random
+randomNumber = random.randint(1 , 50)
 startingNumber = int(input("Starting number?"))
 endingNumber = int("Ending number?")
