@@ -91,7 +91,7 @@
 import random
 num1 = random.randint(1 , 50)
 num2 = random.randint(1 , 50)
-ans = input("What is" + num1 + "+" + num2 + "?")
+ans = input("What is" + str(num1) + "+" + str(num2) + "?")
 print(ans == num1 + num2)
 # The output should be one of the following:
 # 1. True (If the answer is correct)
