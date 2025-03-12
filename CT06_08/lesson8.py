@@ -132,9 +132,20 @@
 # The output should be one of the following:
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
-import random
-num1 = random.randint(1 , 10)
-print(num1)
-guess = int(input("What is the number that you are guessing?(1 - 10)"))
-#
-print(guess == num1)
+# print(num1)
+# guess = int(input("What is the number that you are guessing?(1 - 10)"))
+# num1 = random.randint(1 , 10)
+# print(num1)
+# print(guess == num1)
+
+## Task 6: Random Multiplication Quiz
+
+# You have been tasked by Ms Tan, the Math teacher to create a
+# multiplication quiz.
+
+# Create a program that generates a certain number of random
+# multiplication questions.
+
+# Each question should involve multiplying 2 random numbers
+# between 1 and 10. The user should input the number of questions
+# they want to attempt.
