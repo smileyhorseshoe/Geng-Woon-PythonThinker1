@@ -32,5 +32,7 @@ print(" 1A Done")
 startingNum = int(input("What is the starting number?(Countdown ends at 1)"))
 for i in range(startingNum , 0 , -1):
     print(i)
+    time.sleep(1)
+    
 
 
