@@ -122,6 +122,3 @@ endingNumber = int(input("Ending number?"))
 print("The random number is " + str(randomNumber))
 
 startingNumber <= randomNumber <= endingNumber
-    print("True")
-else:
-    print("False")
