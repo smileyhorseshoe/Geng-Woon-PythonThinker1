@@ -92,6 +92,7 @@ import random
 num1 = random.randint(1 , 50)
 print(num1)
 num2 = random.randint(1 , 50)
+print(num2)
 total = num1 + num2
 # ans = input("What is " + str(num1) + "+" + str(num2) + "=")
 # print(ans = num1 + num2)
