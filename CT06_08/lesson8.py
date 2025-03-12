@@ -23,13 +23,14 @@
 # Modify your code from Task 1a to include an 'input()' function
 # asking the user for the number to countdown from, before
 # counting down every second from the number given by the user.
-import time
-for i in range(10 , 0 , -1):
-    print(i)
-    time.sleep(1)
-print(" 1A Done")
+# import time
+# for i in range(10 , 0 , -1):
+#     print(i)
+#     time.sleep(1)
+# print(" 1A Done")
 # 1B
 startingNum = int(input("What is the starting number?(Countdown ends at 1)"))
+import time
 for i in range(startingNum , 0 , -1):
     print(i)
     time.sleep(1)
