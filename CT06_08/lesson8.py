@@ -77,3 +77,6 @@
 # variable the "False" boolean.
 # Print out the result of comparing the 2 variables using
 # the "==" operator.
+# TASK 3C:
+var1 = True
+var2 = False
