@@ -10,6 +10,6 @@
 #    it out.
 num = 0
 for i in range(5):
-    num = int(input("What is the next number?"))
+    i = int(input("What is the next number?"))
     num = num * i
 print(num)
