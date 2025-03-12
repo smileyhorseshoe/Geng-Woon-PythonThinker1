@@ -12,7 +12,6 @@
 # for i in range(5):
 #     num = num * int(input("What number is" + str(i + 1)))
 # print(num)
-import time
 ## Task 1: 'time' library
 
 # **Task 1a**:
