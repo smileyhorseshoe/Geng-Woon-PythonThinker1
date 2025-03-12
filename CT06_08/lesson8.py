@@ -43,6 +43,7 @@
 # **Task 2a**:
 # Import the 'random' library and create a program that randomly
 # output a number between 1 to 6
+# TASK 2A: DONE
 import random
 num1 = random.randint(1 , 6)
 print(num1)
