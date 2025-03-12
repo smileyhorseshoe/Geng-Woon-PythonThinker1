@@ -69,7 +69,7 @@
 # Print out the result of comparing the 2 variables using
 # the "==" operator.
 # TASK 3B:
-
+var1 = True
 # **Task 3c**:
 # Now, assign 1 variable the "True" boolean, and assign another
 # variable the "False" boolean.
