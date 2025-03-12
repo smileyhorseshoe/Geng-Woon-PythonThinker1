@@ -151,5 +151,7 @@
 # they want to attempt.
 numQuestions = input("What is the numver of questions you want to attempt?")
 for i in range(numQuestions):
-    i = random.randint(1 , 10)
+    num1 = random.randint(1 , 10)
+    num2 = random.randint(1 , 10)
+    total = num1 + num2
     
