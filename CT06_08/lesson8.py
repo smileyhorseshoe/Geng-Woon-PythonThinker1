@@ -121,3 +121,5 @@ startingNumber = int(input("Starting number?"))
 endingNumber = int(input("Ending number?"))
 if randomNumber < endingNumber or startingNumber > randomNumber:
     print("True")
+else:
+    print("False")
