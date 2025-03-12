@@ -132,4 +132,5 @@
 # The output should be one of the following:
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
+import random
 guess = int(input("What is the number that you are guessing?"))
