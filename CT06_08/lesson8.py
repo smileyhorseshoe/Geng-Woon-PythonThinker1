@@ -119,3 +119,5 @@ import random
 randomNumber = random.randint(1 , 50)
 startingNumber = int(input("Starting number?"))
 endingNumber = int(input("Ending number?"))
+if randomNumber < endingNumber or startingNumber > randomNumber:
+    print("True")
