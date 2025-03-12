@@ -53,4 +53,5 @@
 # # TASK 2B:
 import random
 for i in range(20):
-    num1 = random.randint(1 , 6)
+    num1 = random.randint(0 , 9999)
+    print(num1)
