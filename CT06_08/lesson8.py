@@ -121,4 +121,4 @@ startingNumber = int(input("Starting number?"))
 endingNumber = int(input("Ending number?"))
 print("The random number is " + str(randomNumber))
 
-startingNumber <= randomNumber <= endingNumber
+print(startingNumber <= randomNumber <= endingNumber)
