@@ -43,10 +43,10 @@
 # **Task 2a**:
 # Import the 'random' library and create a program that randomly
 # output a number between 1 to 6
-# TASK 2A: DONE
-import random
-num1 = random.randint(1 , 6)
-print(num1)
+# # TASK 2A: DONE
+# import random
+# num1 = random.randint(1 , 6)
+# print(num1)
 # **Task 2b**:
 # Using the 'random' library, create 20 numbers between 0 and
 # 9999 randomly.
