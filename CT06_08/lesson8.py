@@ -89,8 +89,8 @@
 # that the user must add together.
 # # TASK 4A:
 import random
-for i in range(2):
-    num1 = num + random.randint(1 , 50)
+num1 = num + random.randint(1 , 50)
+
 ans = input("What is")
 # The output should be one of the following:
 # 1. True (If the answer is correct)
