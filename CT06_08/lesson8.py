@@ -9,5 +9,6 @@
 # 2. Calculate the multiplication for these 5 numbers and print
 #    it out.
 for i in range(5):
-    i = input("What is the next number?")
+    i = int(input("What is the next number?"))
     i = i * i
+print(i)
