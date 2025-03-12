@@ -93,7 +93,7 @@ num1 = random.randint(1 , 50)
 num2 = random.randint(1 , 50)
 total = int(num1) + int(num2)
 ans = input(str(num1) + "+" + str(num2) + "=")
-print(ans == total)
+print(int(ans) == total)
 # The output should be one of the following:
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
