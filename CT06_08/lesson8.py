@@ -61,14 +61,14 @@
 # **Task 3a**:
 # Assign a boolean value to a variable and print it.
 # Task 3A: DONE
-true = True
-print(true)
+# true = True
+# print(true)
 
 # **Task 3b**:
 # Create 2 variables both holding the "True" boolean.
 # Print out the result of comparing the 2 variables using
 # the "==" operator.
-
+# TASK 3B
 # **Task 3c**:
 # Now, assign 1 variable the "True" boolean, and assign another
 # variable the "False" boolean.
