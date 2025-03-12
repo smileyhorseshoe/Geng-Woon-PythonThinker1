@@ -77,7 +77,7 @@
 # variable the "False" boolean.
 # Print out the result of comparing the 2 variables using
 # the "==" operator.
-# TASK 3C:
-var1 = True
-var2 = False
-print(var1 == var2)
+# TASK 3C: DONE
+# var1 = True
+# var2 = False
+# print(var1 == var2)
