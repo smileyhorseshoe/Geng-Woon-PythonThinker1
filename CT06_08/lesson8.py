@@ -92,7 +92,7 @@ import random
 num1 = random.randint(1 , 50)
 num2 = random.randint(1 , 50)
 total = num1 + num2
-ans = input("What is " + str(num1) + "+" + str(num2) + "=")
+ans = input(str(num1) + "+" + str(num2) + "=")
 print(ans == total)
 # The output should be one of the following:
 # 1. True (If the answer is correct)
