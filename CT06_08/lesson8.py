@@ -89,9 +89,9 @@
 # that the user must add together.
 # # TASK 4A:
 import random
-num1 = num + random.randint(1 , 50)
-
-ans = input("What is")
+num1 = random.randint(1 , 50)
+num2 = random.randint(1 , 50)
+ans = input("What is" + num1)
 # The output should be one of the following:
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
