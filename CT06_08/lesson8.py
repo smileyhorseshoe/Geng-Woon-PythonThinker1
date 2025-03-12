@@ -90,7 +90,7 @@
 # # TASK 4A:
 import random
 for i in range(2):
-    i = i + random.randit(1 , 50)
+    i = i + random.randint(1 , 50)
 print(i)
 # The output should be one of the following:
 # 1. True (If the answer is correct)
