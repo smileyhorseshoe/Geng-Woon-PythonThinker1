@@ -29,11 +29,22 @@
 #     time.sleep(1)
 # print(" 1A Done")
 # 1B
-startingNum = int(input("What is the starting number?(Countdown ends at 1)"))
-import time
-for i in range(startingNum , 0 , -1):
-    print(i)
-    time.sleep(1)
-print("1B done")
+# startingNum = int(input("What is the starting number?(Countdown ends at 1)"))
+# import time
+# for i in range(startingNum , 0 , -1):
+#     print(i)
+#     time.sleep(1)
+# print("1B done")
 
 
+
+## Task 2: 'random' library
+
+# **Task 2a**:
+# Import the 'random' library and create a program that randomly
+# output a number between 1 to 6
+import random
+
+# **Task 2b**:
+# Using the 'random' library, create 20 numbers between 0 and
+# 9999 randomly.
