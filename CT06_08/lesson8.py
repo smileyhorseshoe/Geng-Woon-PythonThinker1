@@ -178,4 +178,7 @@
 integer = input("Give a number in numerals.")
 divisorCheck = 0
 divisorCheck = int % 2
-print(divisorCheck)
+if divisorCheck == 0:
+    print(True)
+else:
+    print("False")
