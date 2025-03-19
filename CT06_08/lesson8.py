@@ -179,6 +179,6 @@ integer = input("Give a number in numerals.")
 divisorCheck = 0
 divisorCheck = int % 2
 if divisorCheck == 0:
-    print(True)
+    print("True")
 else:
     print("False")
