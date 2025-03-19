@@ -8,7 +8,7 @@
 # 3rd number: 6
 # All numbers are even/odd: True
 
-# 1. Import the 'random' library
+# 1. Import the 'random' library: DONE
 # 2. Create 3 variables to hold a random number that is between
 #    1 and 6, generated using 'random.randint()': DONE
 # 3. Using string concatenation, print the generated number for
