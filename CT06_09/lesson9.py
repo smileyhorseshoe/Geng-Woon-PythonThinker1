@@ -19,15 +19,16 @@
 #    should be assigned 'True' if all 3 numbers are either all
 #    even or all odd numbers.
 # 6. Print if "All numbers are even/odd" is 'True' or 'False'
-import random
+# import random
 
-num1 = random.randint(1 , 6)
-num2 = random.randint(1 , 6)
-num3 = random.randint(1 , 6)
-print("Number 1:" + str(num1))
-print("Number 2:" + str(num2))
-print("Number 3:" + str(num3))
-num1 % 2
-num2 % 2
-num3 % 2
-print(num1 and num2 and num3 == 0 or num1 and num2 and num3 == 1)
+# num1 = random.randint(1 , 6)
+# num2 = random.randint(1 , 6)
+# num3 = random.randint(1 , 6)
+# print("Number 1:" + str(num1))
+# print("Number 2:" + str(num2))
+# print("Number 3:" + str(num3))
+# num1 % 2
+# num2 % 2
+# num3 % 2
+# print(num1 and num2 and num3 == 0 or num1 and num2 and num3 == 1)
+# NOT WORKING
