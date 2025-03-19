@@ -154,7 +154,6 @@ numQuestions = int(input("What is the number of questions you want to attempt?")
 for i in range(numQuestions):
     num1 = random.randint(1 , 10)
     num2 = random.randint(1 , 10)
-    total = num1 * num2
     print(total)
     userAnswer = input("What is " + str(num1) + "*" + str(num2) + "=")
     print(int(userAnswer) == total)
