@@ -194,3 +194,4 @@
 # 3. Print 'True' if number #1 is a multiple of number #2,
 #    otherwise print 'False'.
 # TASK 8
+num1 = int(input("What is the 1st number in numerals?"))
