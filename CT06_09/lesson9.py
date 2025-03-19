@@ -27,3 +27,4 @@ num3 = random.randint(1 , 6)
 print("Number 1:" + str(num1))
 print("Number 2:" + str(num2))
 print("Number 3:" + str(num3))
+total = num1 + num2 + num3
