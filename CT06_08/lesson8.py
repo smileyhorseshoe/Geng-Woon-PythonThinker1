@@ -149,15 +149,15 @@
 # Each question should involve multiplying 2 random numbers
 # between 1 and 10. The user should input the number of questions
 # they want to attempt.
-import random
-numQuestions = int(input("What is the number of questions you want to attempt?"))
-for i in range(numQuestions):
-    num1 = random.randint(1 , 10)
-    num2 = random.randint(1 , 10)
-    total = num1 * num2
-    print(total)
-    userAnswer = input("What is " + str(num1) + "*" + str(num2) + "=")
-    print(int(userAnswer) == total)
+# import random
+# numQuestions = int(input("What is the number of questions you want to attempt?"))
+# for i in range(numQuestions):
+#     num1 = random.randint(1 , 10)
+#     num2 = random.randint(1 , 10)
+#     total = num1 * num2
+#     print(total)
+#     userAnswer = input("What is " + str(num1) + "*" + str(num2) + "=")
+#     print(int(userAnswer) == total)
 # INT == STR = FALSE
 # STR == STR = TRUE
 # STR == INT = FALSE
