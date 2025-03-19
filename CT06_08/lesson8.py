@@ -195,6 +195,6 @@
 #    otherwise print 'False'.
 # TASK 8
 num1 = int(input("What is the 1st number in numerals?"))
-num2 = int(input("What is the 1st number in numerals?"))
+num2 = int(input("What is the 2nd number in numerals?"))
 divisorCheck = num1 % num2
 print(divisorCheck == 0)
