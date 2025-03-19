@@ -30,4 +30,4 @@ print("Number 3:" + str(num3))
 num1 % 2
 num2 % 2
 num3 % 2
-print(num1 and num2 and num3 == 0 or num1 and num2 and num3 == 0)
+print(num1 and num2 and num3 == 0 or num1 and num2 and num3 == 1)
