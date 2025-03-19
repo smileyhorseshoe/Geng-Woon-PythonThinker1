@@ -32,3 +32,4 @@
 # num3 % 2
 # print(num1 and num2 and num3 == 0 or num1 and num2 and num3 == 1)
 # NOT WORKING
+# SOLUTION
