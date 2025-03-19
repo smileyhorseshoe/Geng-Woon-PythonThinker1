@@ -157,7 +157,5 @@ for i in range(numQuestions):
     total = num1 + num2
     userAnswer = input("What is " + str(num1) + "+" + str(num2) + "?")
     if userAnswer == total:
-        print("True")
-    else:
-        print("False")
+        print("
 # help
