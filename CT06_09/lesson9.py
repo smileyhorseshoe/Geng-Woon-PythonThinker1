@@ -32,3 +32,11 @@
 # num3 % 2
 # print(num1 and num2 and num3 == 0 or num1 and num2 and num3 == 1)
 # NOT WORKING
+
+# import random
+# num1, num2, num3 = random.randint(1,6), random.randint(1,6), random.randint(1,6)
+# print("1st number: " + str(num1))
+# print("2nd number: " + str(num2))
+# print("3rd number: " + str(num3))
+# all_even_odd = (num1 % 2 == 0 and num2 % 2 == 0 and num3 % 2 == 0) or (num1 % 2 == 1 and num2 % 2 == 1 and num3 % 2 == 1)
+# print("All numbers are even/odd is " + str(all_even_odd))
