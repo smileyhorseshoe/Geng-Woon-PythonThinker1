@@ -30,3 +30,7 @@ print("Number 3:" + str(num3))
 num1 % 2
 num2 % 2
 num3 % 2
+if num1 and num2 and num3 == 0 or num1 and num2 and num3 == 1:
+    print("True")
+else:
+    print("False")
