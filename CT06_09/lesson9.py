@@ -33,6 +33,7 @@
 # print(num1 and num2 and num3 == 0 or num1 and num2 and num3 == 1)
 # NOT WORKING
 
+# Teacher solution
 # import random
 # num1, num2, num3 = random.randint(1,6), random.randint(1,6), random.randint(1,6)
 # print("1st number: " + str(num1))
