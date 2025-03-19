@@ -157,4 +157,4 @@ for i in range(numQuestions):
     print(total)
     userAnswer = input("What is " + str(num1) + "*" + str(num2) + "=")
     print(int(userAnswer) == total)
-# help
+# INT == STR = FALSE
