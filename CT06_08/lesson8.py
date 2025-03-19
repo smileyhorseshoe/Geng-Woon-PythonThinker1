@@ -155,6 +155,6 @@ for i in range(numQuestions):
     num1 = random.randint(1 , 10)
     num2 = random.randint(1 , 10)
     total = num1 + num2
-    userAnswer = input()
+    userAnswer = input("What")
     print(userAnswer == total)
 # help:(
