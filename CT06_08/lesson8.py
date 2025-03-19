@@ -197,4 +197,4 @@
 num1 = int(input("What is the 1st number in numerals?"))
 num2 = int(input("What is the 1st number in numerals?"))
 divisorCheck = num1 % num2
-print()
+print(divisorCheck == 0)
