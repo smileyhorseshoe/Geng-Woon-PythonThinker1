@@ -29,4 +29,4 @@ print("Number 2:" + str(num2))
 print("Number 3:" + str(num3))
 total = num1 + num2 + num3
 total % 2
-print(total == 0 or total == 1)
+print(total == 0)
