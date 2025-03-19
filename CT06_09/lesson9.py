@@ -21,3 +21,5 @@
 # 6. Print if "All numbers are even/odd" is 'True' or 'False'
 import random
 for i in range(3):
+      i = random.randint(1 , 10)
+      
