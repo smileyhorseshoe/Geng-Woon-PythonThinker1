@@ -177,7 +177,3 @@
 #  TASK 7
 integer = int(input("Give a number in numerals."))
 divisorCheck = integer % 2
-if divisorCheck == 0:
-    print("True")
-else:
-    print("False")
