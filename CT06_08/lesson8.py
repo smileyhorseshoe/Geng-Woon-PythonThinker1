@@ -196,4 +196,4 @@
 # TASK 8
 num1 = int(input("What is the 1st number in numerals?"))
 num2 = int(input("What is the 1st number in numerals?"))
-divisorCheck = n
+print()
