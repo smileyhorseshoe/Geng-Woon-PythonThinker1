@@ -163,7 +163,15 @@ for i in range(numQuestions):
 # STR == INT = FALSE
 # INT == INT = TRUE
 
+## Task 7: Even or Odd Checker
 
+# Write a program that asks the user to enter a number. The
+# program then tells the user whether the number is even
+# (True) or odd (False).
 
-
-
+# Your program needs to:
+# 1. Ask user for an integer input.
+# 2. Check if there is any remainder when user input is divided
+#    by 2 (using '%').
+# 3. Print 'True' if number is even, otherwise print 'False'.
+#  TASK 7
