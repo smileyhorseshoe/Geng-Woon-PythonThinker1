@@ -31,3 +31,5 @@ total = num1 + num2 + num3
 total % 2
 if total == 0 or total == 1:
     print("True")
+else:
+    print("False")
