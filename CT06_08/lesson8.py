@@ -175,3 +175,4 @@ for i in range(numQuestions):
 #    by 2 (using '%').
 # 3. Print 'True' if number is even, otherwise print 'False'.
 #  TASK 7
+integer = input("Give 1 integer")
