@@ -176,5 +176,5 @@
 # 3. Print 'True' if number is even, otherwise print 'False'.
 #  TASK 7
 integer = input("Give a number in numerals.")
-divisorCheck = divisorCheck % integer
+divisorCheck = 9
 print(divisorCheck)
