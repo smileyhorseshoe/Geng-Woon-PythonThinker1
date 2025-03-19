@@ -31,5 +31,3 @@ total = num1 + num2 + num3
 total % 2
 if total == 0:
     print("True")
-elif total ==1:
-    print("False")
