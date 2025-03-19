@@ -10,7 +10,7 @@
 
 # 1. Import the 'random' library
 # 2. Create 3 variables to hold a random number that is between
-#    1 and 6, generated using 'random.randint()'
+#    1 and 6, generated using 'random.randint()': DONE
 # 3. Using string concatenation, print the generated number for
 #    each of the 3 numbers
 # 4. Using the '%' and '==' operator, check if each number is
@@ -22,3 +22,4 @@
 import random
 for i in range(3):
       i = random.randint(1 , 6)
+      print(i)
