@@ -177,4 +177,4 @@ for i in range(numQuestions):
 #  TASK 7
 integer = input("Give a number in numerals.")
 divisorCheck = divisorCheck % integer
-print
+print(divisorCheck)
