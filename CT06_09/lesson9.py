@@ -87,7 +87,7 @@ for i in range(7):
         if todaysSaving == 0:
             print("No savings.")
         else:
-            sum + 1
+            sum + todays
     i + 1
 print(sum)
 
