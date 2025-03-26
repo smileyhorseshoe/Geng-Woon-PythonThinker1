@@ -88,6 +88,6 @@ for i in range(7):
             print("No savings.")
         else:
             sum + 1
-            
+print(sum)
 
 
