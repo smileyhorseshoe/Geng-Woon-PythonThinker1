@@ -81,4 +81,5 @@ if userAge <= 10:
     print("Child")
     if userAge <= 17:
         print("Teen")
-        
+    else:
+        print("Adult")
