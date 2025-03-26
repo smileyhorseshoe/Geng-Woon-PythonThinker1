@@ -76,7 +76,7 @@
 #         If true, print "Teen"
 # 4. Else:
 #         Print "Adult"
-# userAge = int(input("What is your age?"))
+userAge = int(input("What is your age?"))
 if userAge < 13:
     print("Child")
 else:
