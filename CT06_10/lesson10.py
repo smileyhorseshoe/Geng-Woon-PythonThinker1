@@ -8,4 +8,7 @@
 # 3. Use an 'else' statement for when the number is not greater than 0.
 #         In this case, print "{number} is negative."
 number = int(input("Give me a number(NO DECIMALS!)"))
-print(number > 0)
+if number > 0:
+    print("Your number is a positive number.")
+else:
+    print("Your number is a negative number.")
