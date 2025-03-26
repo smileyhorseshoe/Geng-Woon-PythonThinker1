@@ -57,3 +57,4 @@ else:
 #    divided by 2)
 # 3. If the number is even, print "This number is even"
 # 4. If the number is odd, print "This number is odd"
+userInput = int(input)
