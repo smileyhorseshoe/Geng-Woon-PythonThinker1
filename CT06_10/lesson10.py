@@ -22,4 +22,5 @@
 #     print "Congratulations!! You did it!"
 # 4. If the user guesses wrongly: 
 #     print "Oops, better luck next time!"
-imo
+import random
+randomNumber = random.randint(1, 10)
