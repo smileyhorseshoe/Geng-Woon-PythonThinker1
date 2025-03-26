@@ -87,6 +87,7 @@ if userAge < 13:
     print("Child")
 elif userAge <= 18:
     print("Teen")
-elif userAge <
+elif userAge <= 0:
+    print("INVALID AGE!!! WE ONLY COUNT YEARS!")
 else:
    print("Adult") 
