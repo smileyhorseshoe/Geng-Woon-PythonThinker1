@@ -83,7 +83,7 @@ sum = 0
 todaysSavings = 0
 for i in range(7):
     if i < 7:
-        todaysSaving = input("How many savings today?(INPUT FORMAT: XX)")
+        todaysSaving = int(input("How many savings today?(INPUT FORMAT: XX)"))
         if todaysSaving > 0:
             sum = sum + todaysSavings
     i + 1
