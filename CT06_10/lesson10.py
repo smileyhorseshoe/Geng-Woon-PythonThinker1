@@ -29,4 +29,4 @@ userAns = int(input("Guess a number from 1-10."))
 if randomNumber == userAns:
     print("Congratulations!!! You guessed... Correctly!")
 else:
-    print("Congratulations!!! You guessed... Wrongly!")
+    print("Oops, better luck next time!")
