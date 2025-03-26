@@ -85,7 +85,7 @@ userAge = int(input("What is your age?"))
 #         print("Adult")
 if userAge < 13:
     print("Child")
-elif userAge < 19:
+elif userAge < 18:
     print("Teen")
 else:
    print("Adult") 
