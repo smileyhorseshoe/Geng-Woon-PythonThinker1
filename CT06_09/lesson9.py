@@ -86,8 +86,6 @@ for i in range(7):
         todaysSaving = input("How many savings today?(INPUT FORMAT: XX)")
         if todaysSaving > 0:
             sum = sum + todaysSavings
-        else:
-            print("None detected/")
     i + 1
 print(sum)
 
