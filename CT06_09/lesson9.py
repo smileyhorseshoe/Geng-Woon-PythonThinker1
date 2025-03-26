@@ -61,3 +61,20 @@
 #    1
 # 5. After the loop, print the count of days with temperature
 #    higher than 30.
+
+# Task 8: Summing Positive Numbers
+# **Task 8a**:
+# Draw out the flowchart (on a piece of paper) of a program
+# that will calculate the total sum of **savings** 
+# (include in total only if savings for that day is positive)
+# from a week's worth of data provided by the user every day.
+
+# 1. Create and assign 'sum' variable to 0.
+# 2. Use a 'for' loop to iterate through each day of the week
+#    (7 times)
+# 3. In each iteration, prompt the user to input the
+#    savings for the day.
+# 4. Use an if condition to check if the savings is greater
+#    than 0. If so, increase the variable 'sum' by
+#    that day's savings.
+# 5. After the loop, print the sum of savings for that week
