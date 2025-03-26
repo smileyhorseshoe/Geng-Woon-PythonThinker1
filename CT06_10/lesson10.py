@@ -295,4 +295,4 @@ else:
 
 
 
-bool(pw)
+print(bool(pw))
