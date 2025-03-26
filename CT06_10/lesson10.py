@@ -22,15 +22,15 @@
 #     print "Congratulations!! You did it!"
 # 4. If the user guesses wrongly: 
 #     print "Oops, better luck next time!"
-import random
-randomNumber = random.randint(1, 10)
-print(randomNumber)
-# CHECKING
-userAns = int(input("Guess a number from 1-10."))
-if randomNumber == userAns:
-    print("Congratulations!!! You guessed... Correctly!")
-else:
-    print("Oops, better luck next time!")
+# import random
+# randomNumber = random.randint(1, 10)
+# print(randomNumber)
+# # CHECKING
+# userAns = int(input("Guess a number from 1-10."))
+# if randomNumber == userAns:
+#     print("Congratulations!!! You guessed... Correctly!")
+# else:
+#     print("Oops, better luck next time!")
 
     # Task 3: Password Checker
 # Code a password checker to protect your code!
