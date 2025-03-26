@@ -61,4 +61,4 @@
 #    1
 # 5. After the loop, print the count of days with temperature
 #    higher than 30.
-h
+1
