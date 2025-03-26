@@ -87,6 +87,6 @@ if userAge < 13:
     print("Child")
 elif userAge <= 18:
     print("Teen")
+elif userAge <
 else:
    print("Adult") 
-   
