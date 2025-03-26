@@ -83,4 +83,5 @@ else:
     if userAge == 13 or 14 or 15 or 16 or 17 or 18:
         print("Teen")
     else:
-        print("Adult")
+        if userAge >= 19:
+            print("Adult")
