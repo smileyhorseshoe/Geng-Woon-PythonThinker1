@@ -83,5 +83,6 @@ sum = 0
 todaysSavings
 for i in range(7):
     if i < 7:
-        todaysSaving = int()
+        todaysSaving = int(input("How many savings today?(INPUT FORMAT: $XX.XX)"))
+        
 
