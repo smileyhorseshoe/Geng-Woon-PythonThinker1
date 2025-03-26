@@ -40,13 +40,13 @@
 # 3. If the password matches, print "Login Successful"
 # 4. If the password does not match, print "Password Incorrect"
 
-pw = "Taco123!"
+# pw = "Taco123!"
 
-userInput = input("What is the password?")
-if userInput == pw:
-    print("Login sucessful!")
-else:
-    print("Password Incorrect.")
+# userInput = input("What is the password?")
+# if userInput == pw:
+#     print("Login sucessful!")
+# else:
+#     print("Password Incorrect.")
 
 # Task 4: Even or Odd?
 # Code a program to tell the user if a number is even or odd
@@ -57,4 +57,4 @@ else:
 #    divided by 2)
 # 3. If the number is even, print "This number is even"
 # 4. If the number is odd, print "This number is odd"
-userInput = int(input)
+userInput = int(input("Pick a number with no decimals."))
