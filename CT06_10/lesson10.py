@@ -60,4 +60,4 @@
 userInput = int(input("Pick a number with no decimals."))
 ans = userInput % 2
 if ans == 0:
-    print("T")
+    print("This number is even.")
