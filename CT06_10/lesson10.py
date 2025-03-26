@@ -44,4 +44,6 @@ pw = input("Choose a password(Letters and numbers accepted!)")
 
 userInput = input("What is the password?")
 if userInput == pw:
-    print
+    print("Login sucessful!")
+else:
+    print("")
