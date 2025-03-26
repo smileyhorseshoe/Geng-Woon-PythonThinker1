@@ -61,3 +61,5 @@ userInput = int(input("Pick a number with no decimals."))
 ans = userInput % 2
 if ans == 0:
     print("This number is even.")
+else:
+    print("This number is odd.")
