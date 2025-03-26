@@ -31,3 +31,11 @@ if randomNumber == userAns:
     print("Congratulations!!! You guessed... Correctly!")
 else:
     print("Oops, better luck next time!")
+
+    # Task 3: Password Checker
+# Code a password checker to protect your code!
+
+# 1. Assign a password to a variable
+# 2. Ask the user to enter a password
+# 3. If the password matches, print "Login Successful"
+# 4. If the password does not match, print "Password Incorrect"
