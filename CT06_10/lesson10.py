@@ -24,3 +24,4 @@
 #     print "Oops, better luck next time!"
 import random
 randomNumber = random.randint(1, 10)
+userAns = int(input)
