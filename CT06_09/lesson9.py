@@ -79,3 +79,8 @@
 #    that day's savings.
 # 5. After the loop, print the sum of savings for that week
 # 8B
+sum = 0
+todaysSaving
+for i in range(7):
+    if i < 7:
+
