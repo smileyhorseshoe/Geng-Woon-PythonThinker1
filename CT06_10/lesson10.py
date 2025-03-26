@@ -25,6 +25,7 @@
 import random
 randomNumber = random.randint(1, 10)
 print(randomNumber)
+# CHECKING
 userAns = int(input("Guess a number from 1-10."))
 if randomNumber == userAns:
     print("Congratulations!!! You guessed... Correctly!")
