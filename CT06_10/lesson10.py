@@ -58,3 +58,6 @@
 # 3. If the number is even, print "This number is even"
 # 4. If the number is odd, print "This number is odd"
 userInput = int(input("Pick a number with no decimals."))
+ans = userInput % 2
+if ans == 0:
+    print("T")
