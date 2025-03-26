@@ -78,3 +78,4 @@
 #    than 0. If so, increase the variable 'sum' by
 #    that day's savings.
 # 5. After the loop, print the sum of savings for that week
+# 8B
