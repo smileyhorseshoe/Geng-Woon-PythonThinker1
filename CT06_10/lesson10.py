@@ -80,8 +80,7 @@ userAge = int(input("What is your age?"))
 if userAge < 13:
     print("Child")
 else:
-    if userAge == 13 or 14 or 15 or 16 or 17 or 18:
+    if userAge < 19:
         print("Teen")
     else:
-        if userAge > 18:
-            print("Adult")
+        print("Adult")
