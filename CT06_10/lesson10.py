@@ -24,4 +24,9 @@
 #     print "Oops, better luck next time!"
 import random
 randomNumber = random.randint(1, 10)
-userAns = int(input)
+print(randomNumber)
+userAns = int(input("Guess a number from 1-10."))
+if randomNumber == userAns:
+    print("Congratulations!!! You guessed... Correctly!")
+else:
+    print("Congratulations!!! You guessed... Correctly!")
