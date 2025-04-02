@@ -110,4 +110,7 @@
 # 3. If true, display "Access Denied."
 pw = "Python123"
 userAns = input("What is the password?")
-if not user
+if not userAns == pw:
+    print("Acess denied!")
+else:
+    print("Acess granted!")
