@@ -95,4 +95,4 @@
 #    If true, print "Try again"
 
 colour = "Green"
-userGuess = 
+userGuess = input("Guess a colour(e.g. Red , Green , Yellow)")
