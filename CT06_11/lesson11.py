@@ -34,8 +34,8 @@
 # >> True
 rider1 = 125
 rider2 = 150
-print("Rider 1's height is:" + rider1)
-print(rider2)
+print("Rider 1's height is:" + str(rider1))
+print("Rider 2's height is:" + str(rider2))
 
 if rider1 > 120 and rider2 > 120:
     print("All clear!")
