@@ -15,4 +15,5 @@ if px <= 5:
     print("Sounds good!")
 elif px <= 50:
     ("Are you sure you need this?")
-elif px <= 500
+elif px <= 500:
+    print("Where are you evwen getting this money from?!")
