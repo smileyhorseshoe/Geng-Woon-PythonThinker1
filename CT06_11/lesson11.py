@@ -93,6 +93,9 @@
 # 1. Ask user for a colour
 # 2. Using the 'not' operator, check if input is not "Green".
 #    If true, print "Try again"
-
-colour = "Green"
+correctAns = "Green"
 userGuess = input("Guess a colour(e.g. Red , Green , Yellow)")
+if userGuess != colour:
+    print("Wrong!")
+else:
+    print("Correct!")
