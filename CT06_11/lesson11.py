@@ -81,6 +81,6 @@
 
 userAge = int(input("What is your age?"))
 if userAge <= 12 or userAge >= 65:
-    print("Ticket price:15 SGD.")
+    print("Ticket Price:15 SGD.")
 else:
     print("Ticket Price:20 SGD.")
