@@ -51,3 +51,5 @@
 numberCheck = int(input("Give me a number in numerals."))
 if numberCheck % 3 == 0 and numberCheck % 7 == 0:
     print("This number is divisble by 3 and 7!")
+else:
+    print("This number is not divisible by 3 and 7!")
