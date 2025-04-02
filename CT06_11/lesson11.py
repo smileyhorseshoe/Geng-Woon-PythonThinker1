@@ -36,3 +36,5 @@ rider1 = 125
 rider2 = 150
 if rider1 > 120 and rider2 > 120:
     print("All clear!")
+else:
+    print("")
