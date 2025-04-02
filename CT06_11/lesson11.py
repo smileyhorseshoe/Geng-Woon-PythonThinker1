@@ -54,4 +54,13 @@
 # else:
     # print("This number is not divisible by 3 and 7!")
 
+# Task 4: 'or' Operator in Conditional Statements (OR)
+# You run a go-kart business and need a program to check if at least
+# 1 occupant of a 2-person go-kart is at least 18 years old.
 
+# Use the 'or' operator to determine if value of either 'rider1' or
+# 'rider2' is equal to or greater than 18.
+
+# rider1 = 25
+# rider2 = 6
+# >> True
