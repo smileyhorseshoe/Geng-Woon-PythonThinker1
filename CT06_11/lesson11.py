@@ -12,4 +12,6 @@
 # RECAP
 px = int(input("What is the price of the item you want to buy?"))
 if px <= 5:
-    print("")
+    print("Sounds good!")
+elif px <= 50:
+    
