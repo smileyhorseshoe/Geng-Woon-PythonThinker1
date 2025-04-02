@@ -93,9 +93,9 @@
 # 1. Ask user for a colour
 # 2. Using the 'not' operator, check if input is not "Green".
 #    If true, print "Try again"
-correctAns = "Green"
-userGuess = input("Guess a colour(e.g. Red , Green , Yellow)")
-if not correctAns == userGuess:
-    print("Wrong!")
-else:
-    print("Correct!")
+# correctAns = "Green"
+# userGuess = input("Guess a colour(e.g. Red , Green , Yellow)")
+# if not correctAns == userGuess:
+#     print("Wrong!")
+# else:
+#     print("Correct!")
