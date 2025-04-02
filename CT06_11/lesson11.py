@@ -66,5 +66,5 @@
 # >> True
 rider1 = 25
 rider2 = 6
-print( rider1 >= 18 or rider2 >= 18)
+print(rider1 >= 18 or rider2 >= 18)
 
