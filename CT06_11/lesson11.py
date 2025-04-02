@@ -48,8 +48,8 @@
 # 1. Ask the user to input a number
 # 2. If the number is both a multiple of 3 and a multiple of 7:
 #     print "The number is divisible by 3 and 7!"
-numberCheck = int(input("Give me a number in numerals."))
-if numberCheck % 3 == 0 and numberCheck % 7 == 0:
-    print("This number is divisble by 3 and 7!")
-else:
-    print("This number is not divisible by 3 and 7!")
+# numberCheck = int(input("Give me a number in numerals."))
+# if numberCheck % 3 == 0 and numberCheck % 7 == 0:
+    # print("This number is divisble by 3 and 7!")
+# else:
+    # print("This number is not divisible by 3 and 7!")
