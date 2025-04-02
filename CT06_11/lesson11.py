@@ -12,7 +12,7 @@
 px = float(input("What is the price of the item you want to buy?"))
 
 if px <= 5:
-    print("Sounds good!")
+    print("Sounds good!") 
 elif px <= 50:
     print("Are you sure you need this?")
 elif px <= 500:
