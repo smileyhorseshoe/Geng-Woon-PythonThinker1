@@ -95,7 +95,7 @@
 #    If true, print "Try again"
 correctAns = "Green"
 userGuess = input("Guess a colour(e.g. Red , Green , Yellow)")
-if userGuess != colour:
+if userGuess != correctAns:
     print("Wrong!")
 else:
     print("Correct!")
