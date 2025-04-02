@@ -32,12 +32,19 @@
 # rider1 = 125
 # rider2 = 150
 # >> True
-rider1 = 125
-rider2 = 150
-print("Rider 1's height is:" + str(rider1))
-print("Rider 2's height is:" + str(rider2))
+# rider1 = 125
+# rider2 = 150
+# print("Rider 1's height is:" + str(rider1))
+# print("Rider 2's height is:" + str(rider2))
 
-if rider1 > 120 and rider2 > 120:
-    print("All clear!")
-else:
-    print("Sorry, no can do!")
+# if rider1 > 120 and rider2 > 120:
+#     print("All clear!")
+# else:
+#     print("Sorry, no can do!")
+
+# Task 2: Multiples of 3 and 7 (AND)
+# Create a program to check if a number is both divisible by 3 and 7
+
+# 1. Ask the user to input a number
+# 2. If the number is both a multiple of 3 and a multiple of 7:
+#     print "The number is divisible by 3 and 7!"
