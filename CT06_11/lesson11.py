@@ -3,7 +3,6 @@
 # Recap 1: Purchase Advisor
 # Create a program that asks the user for the price of an item (px) and
 # gives a comment based on the price:
-
 # if:
 #     px <= 5: "Sounds good!"
 #     px <= 50: "Are you sure you need this?"
