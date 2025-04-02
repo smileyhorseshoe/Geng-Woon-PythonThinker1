@@ -64,3 +64,6 @@
 # rider1 = 25
 # rider2 = 6
 # >> True
+rider1 = 25
+rider2 = 6
+print("R")
