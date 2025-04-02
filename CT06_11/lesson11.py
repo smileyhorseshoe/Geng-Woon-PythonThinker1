@@ -17,3 +17,5 @@ elif px <= 50:
     ("Are you sure you need this?")
 elif px <= 500:
     print("Where are you evwen getting this money from?!")
+else:
+    print("Don't even think about it!")
