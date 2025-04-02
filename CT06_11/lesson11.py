@@ -34,6 +34,9 @@
 # >> True
 rider1 = 125
 rider2 = 150
+print(rider1)
+print(rider2)
+
 if rider1 > 120 and rider2 > 120:
     print("All clear!")
 else:
