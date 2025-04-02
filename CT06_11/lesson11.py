@@ -66,4 +66,5 @@
 # >> True
 rider1 = 25
 rider2 = 6
-print("R")
+print("Rider 1's age is:" + str(25))
+print
