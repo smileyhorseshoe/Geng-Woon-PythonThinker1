@@ -66,5 +66,5 @@
 # >> True
 rider1 = 25
 rider2 = 6
-print("Rider 1's age is:" + str(25))
-print
+if rider1 >= 18 or rider2 >= 18:
+    print("True.")
