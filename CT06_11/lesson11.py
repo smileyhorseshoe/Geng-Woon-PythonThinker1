@@ -10,4 +10,5 @@
 #     px <= 500: "Where are you getting this money from?!"
 #     px > 500: "Don't even think about it!"
 # RECAP
-px 
+px = int(input("What is the price of the item you want to buy?"))
+
