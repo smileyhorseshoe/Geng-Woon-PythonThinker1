@@ -111,6 +111,6 @@
 pw = "Python123"
 userAns = input("What is the password?")
 if not userAns == pw:
-    print("Acess denied!")
+    print("Access denied!")
 else:
-    print("Acess granted!")
+    print("Access granted!")
