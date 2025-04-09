@@ -136,6 +136,3 @@ while qualify < 5:
     if int(userAns) == int(ans):
         print("Correct!")
         qualify += 1
-    else:
-        print("WRONG!!")
-        break
