@@ -87,4 +87,5 @@
 order = ""
 while order == "":
     order = input("What would you like to order today?")
+    order = order + order
     
