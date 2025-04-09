@@ -85,7 +85,7 @@
 # 1. Modify your code to remove the comma (",") that appears
 #    either at the start or end of your sentence-*
 order = ""
-while or:
+while True:
     item = input("What would you like to order today?(If nothing else say end)")
     
     if item == "end":
