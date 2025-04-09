@@ -114,4 +114,3 @@
     # print("Access denied!")
 # else:
     # print("Access granted!")
-print(False or True and not False)
