@@ -30,3 +30,4 @@ while visitor < 51:
     print("Visitor Count:" + str(visitor))
     visitor += 1
 print("The venue has reached its max capacity! Do not accept anymore visitors!")
+# 1b.
