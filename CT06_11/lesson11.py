@@ -129,4 +129,4 @@
 # 7. Otherwise:
 #     print "Access Denied" 
 
-username = 
+username = input("")
