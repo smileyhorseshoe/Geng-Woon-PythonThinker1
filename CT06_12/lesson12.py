@@ -64,6 +64,3 @@ print("NEW LIMIT: 30.")
 while visitorsMax < 50:
     presentVisitors += 1
     print("Visitor count =" + str(presentVisitors))
-
-    if presentVisitors > 30:
-        break
