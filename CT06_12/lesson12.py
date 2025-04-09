@@ -86,8 +86,8 @@
 #    either at the start or end of your sentence-*
 order = ""
 while order == "":
-    order = input("What would you like to order today?")
-    print
+    item = input("What would you like to order today?")
+    order =
     anythingelse = ("Anything else?[Nothing else put end]")
     if anythingelse == "end":
         break
