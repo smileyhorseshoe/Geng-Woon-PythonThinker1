@@ -31,4 +31,5 @@
 #     visitor += 1
 # print("The venue has reached its max capacity! Do not accept anymore visitors!")
 # 1b.
-visitor = 30
+maxVisitor = 30
+visitorPresence
