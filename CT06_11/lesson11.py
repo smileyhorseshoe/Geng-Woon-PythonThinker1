@@ -133,8 +133,8 @@ password_ans = "pw123"
 username_ui = input("What is your username?")
 password_ui = input("What is your password?")
 if password_ui == password_ans and username_ans == username_ui:
-    print("Acess granted.")
+    print("Access granted.")
 elif password_ui == password_ans or username_ans == username_ui:
     print("Either the password or username is wrong.")
 else:
-    print("Acess denied!")
+    print("Access denied!")
