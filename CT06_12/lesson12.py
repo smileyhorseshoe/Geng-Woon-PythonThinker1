@@ -126,4 +126,5 @@
 # 3. Disqualify user when they have gotten the wrong answer or
 #    skipped more than 5 times.
 import random
-num1 = 
+num1 = random.randint(1 , 10)
+num1 = random.randint(1 , 10)
