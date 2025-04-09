@@ -1,2 +1,3 @@
-while print("50"):
-    print("50")
+counter = 0
+while counter < 5:
+    print(counter)
