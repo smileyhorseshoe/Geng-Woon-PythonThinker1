@@ -135,6 +135,7 @@ while DQ < 5:
     ans = num1 + num2
     userAns = input("What is:" + str(num1) + "+" + str(num2) + "?")
     if userAns == "skip":
+            num1 = random.randint(1 , 10)
             num2 = random.randint(1 , 10)
             ans = num1 + num2
             userAns = input("What is:" + str(num1) + "+" + str(num2) + "?")
