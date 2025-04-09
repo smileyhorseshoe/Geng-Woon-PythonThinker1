@@ -158,4 +158,4 @@ game_status = "active"
 if game_status == "active" and not game_status == "paused" or "inactive":
     print("Game in progress..")
 else:
-    print("Game is not")
+    print("Game is paused or inactive.")
