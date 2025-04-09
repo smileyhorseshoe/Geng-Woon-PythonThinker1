@@ -91,4 +91,4 @@ while True:
         break
     else:
         order = order + item
-print(order + ", ")
+print(order)
