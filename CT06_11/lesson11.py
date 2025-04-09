@@ -156,7 +156,7 @@
 # 4. Otherwise, print "Game is paused or inactive."
 game_status = "active"
 print(game_status)
-if game_status == "active":
+if game_status == "active" or game_status :
     print("Game in progress..")
-elif game_status == "paused":
+else:
     print("Game is paused or inactive.")
