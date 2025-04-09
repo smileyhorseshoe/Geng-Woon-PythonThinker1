@@ -162,6 +162,3 @@ if game_status == "active" or not game_status == "paused" :
 else:
     print("Game is paused or inactive.")
 
-print("test")
-wait(5)
-print("test2")
