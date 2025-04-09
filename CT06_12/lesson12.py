@@ -125,6 +125,7 @@
 # 2. Add an ability for users to skip by saying "skip"
 # 3. Disqualify user when they have gotten the wrong answer or
 #    skipped more than 5 times.
+qualify = 0
 import random
 while True:
     num1 = random.randint(1 , 10)
@@ -133,6 +134,7 @@ while True:
     userAns = input("What is:" + str(num1) + "+" + str(num2) + "?")
     if int(userAns) == int(ans):
         print("Correct!")
-    else:
-        print("WRONG!!")
-        break
+
+    # else:
+    #     print("WRONG!!")
+    #     break
