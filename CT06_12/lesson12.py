@@ -25,6 +25,7 @@
 # **Task 1c**:
 # Visitors already present: 4
 # Max visitors allowed: 25
+# 1a.
 # visitor = 1
 # while visitor < 51:
 #     print("Visitor Count:" + str(visitor))
@@ -37,7 +38,8 @@
 #     visitorPresence =+ 1
 #     print("Visitor Count:" + str(visitorPresence))
 # print("The venue has reached its max capacity! Do not accept anymore visitors!")
-maxVisitor = 30
+# 1c
+maxVisitor = 
 # visitorPresence = 18
 # while visitorPresence < maxVisitor:
 #     visitorPresence =+ 1
