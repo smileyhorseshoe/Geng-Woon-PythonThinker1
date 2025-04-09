@@ -90,5 +90,5 @@ while True:
     if item == "end":
         break
     else:
-        order = order + ", " + item
+        order = order + item + ", "
 print(order)
