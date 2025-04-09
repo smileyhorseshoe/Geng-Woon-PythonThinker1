@@ -158,5 +158,5 @@ game_status = "active"
 print(game_status)
 if game_status == "active":
     print("Game in progress..")
-elif game_status == "paused" or "inactive":
+elif game_status == "paused":
     print("Game is paused or inactive.")
