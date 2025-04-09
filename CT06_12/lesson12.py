@@ -84,10 +84,10 @@
 # **Bonus**
 # 1. Modify your code to remove the comma (",") that appears
 #    either at the start or end of your sentence-*
-order = ""
-while True:
-    item = input("What would you like to order today?(If nothing else say end)")
-    if item == "end":
-        break
-        order = order + item + ", " 
-print(order[0:-2])
+# order = ""
+# while True:
+#     item = input("What would you like to order today?(If nothing else say end)")
+#     if item == "end":
+#         break
+#         order = order + item + ", " 
+# print(order)
