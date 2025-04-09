@@ -127,4 +127,4 @@
 #    skipped more than 5 times.
 import random
 num1 = random.randint(1 , 10)
-num1 = random.randint(1 , 10)
+num2 = random.randint(1 , 10)
