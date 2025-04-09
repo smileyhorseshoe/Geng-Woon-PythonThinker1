@@ -128,5 +128,6 @@
 import random
 num1 = random.randint(1 , 10)
 num2 = random.randint(1 , 10)
+ans = num1 + num2
 while True:
     question = input("What is:" + str(num1) + "+" + str(num2) + "?")
