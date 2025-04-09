@@ -89,5 +89,39 @@
 #     item = input("What would you like to order today?(If nothing else say end)")
 #     if item == "end":
 #         break
-#         order = order + item + ", " 
+#     order = order + item + ", " 
 # print(order)
+
+# # Task 5: Math Question
+# **Task 5a**:
+# Create a program to test the user on their math skills! The
+# program will continue generating new questions until the user
+# get the correct answer.
+
+# 1. Using a 'while' loop, 
+# 2. Generate 2 random numbers between 1 and 10 (import 'random'
+#    and use 'random.randint()')
+# 3. Ask the user to add the 2 numbers together in the following
+#    format:
+#     "What is 3 + 5?"
+# 4. If the user gets the correct answer:
+#     Print "That's correct!
+# 5. Else:
+#     print "Wrong! Try again"
+#     End the 'while' loop
+    
+# **Bonus**
+# Some ideas to improve on the above program:
+# 1. Print the user's score once the game is over
+# 2. Randomly choose an operator for each question: + - *
+
+# **Task 5b**:
+# Modify your answer from Task 5a to keep asking a new
+# question until the user get 5 correct answers.
+
+# **Bonus**
+# Some ideas to improve on the above program:
+# 1. Add a score system (+2 for right answer, -1 for wrong answer)
+# 2. Add an ability for users to skip by saying "skip"
+# 3. Disqualify user when they have gotten the wrong answer or
+#    skipped more than 5 times.
