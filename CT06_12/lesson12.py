@@ -136,3 +136,4 @@ while DQ < 5:
     userAns = input("What is:" + str(num1) + "+" + str(num2) + "?")
     if int(userAns) == int(ans):
         print("Correct!")
+        point += 1
