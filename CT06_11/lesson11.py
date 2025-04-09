@@ -131,3 +131,4 @@
 username_ans = "John123"
 password_ans = "pw123"
 username_ui = input("What is your username?")
+password_ui = input("What is your password?")
