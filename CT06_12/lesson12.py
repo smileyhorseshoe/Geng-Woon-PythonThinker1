@@ -90,4 +90,4 @@ while True:
     if item == "end":
         break
         order = order + item + ", " 
-print(order)
+print(order[0:-2])
