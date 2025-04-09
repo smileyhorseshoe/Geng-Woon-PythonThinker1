@@ -126,7 +126,8 @@
 # 3. Disqualify user when they have gotten the wrong answer or
 #    skipped more than 5 times.
 
-qualify = 0
+point = 0
+DQ = 0
 import random
 while qualify < 5:
     num1 = random.randint(1 , 10)
@@ -135,4 +136,3 @@ while qualify < 5:
     userAns = input("What is:" + str(num1) + "+" + str(num2) + "?")
     if int(userAns) == int(ans):
         print("Correct!")
-        qualify += 1
