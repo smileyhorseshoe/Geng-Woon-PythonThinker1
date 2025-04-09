@@ -134,4 +134,4 @@ while True:
     if userAns == ans:
         print("Correct!")
     else:
-        pass
+        break
