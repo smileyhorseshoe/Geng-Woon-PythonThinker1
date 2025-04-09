@@ -2,4 +2,5 @@
 visitor = 1
 while visitor < 51:
     print("Visitor count:" + str(visitor))
-    
+    visitor += 1
+    if visitor
