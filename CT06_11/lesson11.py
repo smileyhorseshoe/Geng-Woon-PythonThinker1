@@ -128,5 +128,6 @@
 #     print "Either username or password is incorrect"
 # 7. Otherwise:
 #     print "Access Denied" 
-username_ans = "Pw"
+username_ans = "John123"
+password_ans = "pw123"
 username_ui = input("What is your username?")
