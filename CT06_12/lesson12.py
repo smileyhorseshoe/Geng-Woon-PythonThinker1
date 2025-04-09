@@ -131,7 +131,7 @@ while True:
     num2 = random.randint(1 , 10)
     ans = num1 + num2
     userAns = input("What is:" + str(num1) + "+" + str(num2) + "?")
-    if userAns == ans:
+    if int(userAns) == int(ans):
         print("Correct!")
     else:
         break
