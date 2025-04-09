@@ -66,3 +66,4 @@ while presentVisitors <= 50:
     print("Visitor count = " + str(presentVisitors))
     if presentVisitors == 30:
          break
+print("Visitors in the venue:" + str(presentVisitors))
