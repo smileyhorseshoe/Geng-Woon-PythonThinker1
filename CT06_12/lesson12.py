@@ -59,6 +59,7 @@
 # modify your answer for Task 1a to terminate the 'while' loop when
 # number of visitors is 30.
 visitorsMax = 50
+presentVisitors
 print("NEW LIMIT: 30.")
 while visitorsMax < 50:
-    print("Visitor count =" )
+    print("Visitor count =" + str())
