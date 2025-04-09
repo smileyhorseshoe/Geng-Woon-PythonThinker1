@@ -129,7 +129,7 @@
 point = 0
 DQ = 0
 import random
-while qualify < 5:
+while DQ < 5:
     num1 = random.randint(1 , 10)
     num2 = random.randint(1 , 10)
     ans = num1 + num2
