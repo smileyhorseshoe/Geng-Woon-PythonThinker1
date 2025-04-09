@@ -26,25 +26,25 @@
 # Visitors already present: 4
 # Max visitors allowed: 25
 # 1a.
-print("1a")
-visitor = 1
-while visitor < 51:
-    print("Visitor Count:" + str(visitor))
-    visitor += 1
-print("The venue has reached its max capacity! Do not accept anymore visitors!")
-# 1b.
-print("1b")
-maxVisitor = 30
-visitorPresence = 18
-while visitorPresence < maxVisitor:
-    visitorPresence =+ 1
-    print("Visitor Count:" + str(visitorPresence))
-print("The venue has reached its max capacity! Do not accept anymore visitors!")
-# 1c
-print("1c")
-maxVisitor = 25
-visitorPresence = 4
-while visitorPresence < maxVisitor:
-    visitorPresence =+ 1
-    print("Visitor Count:" + str(visitorPresence))
-print("The venue has reached its max capacity! Do not accept anymore visitors!")
+# print("1a")
+# visitor = 1
+# while visitor < 51:
+#     print("Visitor Count:" + str(visitor))
+#     visitor += 1
+# print("The venue has reached its max capacity! Do not accept anymore visitors!")
+# # 1b.
+# print("1b")
+# maxVisitor = 30
+# visitorPresence = 18
+# while visitorPresence < maxVisitor:
+#     visitorPresence =+ 1
+#     print("Visitor Count:" + str(visitorPresence))
+# print("The venue has reached its max capacity! Do not accept anymore visitors!")
+# # 1c
+# print("1c")
+# maxVisitor = 25
+# visitorPresence = 4
+# while visitorPresence < maxVisitor:
+#     visitorPresence =+ 1
+#     print("Visitor Count:" + str(visitorPresence))
+# print("The venue has reached its max capacity! Do not accept anymore visitors!")
