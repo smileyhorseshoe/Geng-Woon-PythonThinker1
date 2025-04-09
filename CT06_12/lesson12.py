@@ -39,9 +39,9 @@
 #     print("Visitor Count:" + str(visitorPresence))
 # print("The venue has reached its max capacity! Do not accept anymore visitors!")
 # 1c
-maxVisitor = 
-# visitorPresence = 18
-# while visitorPresence < maxVisitor:
-#     visitorPresence =+ 1
-#     print("Visitor Count:" + str(visitorPresence))
-# print("The venue has reached its max capacity! Do not accept anymore visitors!")
+maxVisitor = 25
+visitorPresence = 4
+while visitorPresence < maxVisitor:
+    visitorPresence =+ 1
+    print("Visitor Count:" + str(visitorPresence))
+print("The venue has reached its max capacity! Do not accept anymore visitors!")
