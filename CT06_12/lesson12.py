@@ -140,4 +140,6 @@ while DQ < 5:
     else:
         print("Wrong!!!")
         DQ += 1
-        
+        point =- 1
+    if point == 0:
+        break
