@@ -35,3 +35,4 @@ maxVisitor = 30
 visitorPresence = 18
 while visitorPresence < maxVisitor:
     visitorPresence =+ 1
+    print("Visitor Count:" + str())
