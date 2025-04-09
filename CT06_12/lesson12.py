@@ -86,4 +86,5 @@
 #    either at the start or end of your sentence-*
 order = ""
 while order == "":
-    order = 
+    order = input("What would you like to order today?")
+    
