@@ -27,6 +27,6 @@
 # Max visitors allowed: 25
 visitor = 1
 while visitor < 51:
-    print("Visitor count:" + str(visitor))
+    print("Visitor Count:" + str(visitor))
     visitor += 1
 print("The venue has reached its max capacity! Do not accept anymore visitors!")
