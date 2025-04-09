@@ -90,8 +90,4 @@
 #     if item == "end":
 #         break
 #         order = order + item + ", " 
-# print(order)
-
-
-
-# /
+# print(order
