@@ -32,4 +32,6 @@
 # print("The venue has reached its max capacity! Do not accept anymore visitors!")
 # 1b.
 maxVisitor = 30
-visitorPresence
+visitorPresence = 18
+while visitorPresence < maxVisitor:
+    visitorPresence =+ 1
