@@ -88,4 +88,6 @@ order = ""
 while order == "":
     order = input("What would you like to order today?")
     order = order + order
-    
+    anythingelse = ("Anything else?[Nothing else put end]")
+    if anythingelse == "end":
+        break
