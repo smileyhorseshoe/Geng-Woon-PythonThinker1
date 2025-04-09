@@ -134,7 +134,7 @@ while True:
     userAns = input("What is:" + str(num1) + "+" + str(num2) + "?")
     if int(userAns) == int(ans):
         print("Correct!")
-
+        qualify += 1
     # else:
     #     print("WRONG!!")
     #     break
