@@ -155,7 +155,7 @@
 # 3. If the condition is 'True', print "Game in progress...".
 # 4. Otherwise, print "Game is paused or inactive."
 game_status = "active"
-print(game_status)
+print(game_status + "= True.")
 if game_status == "active" or not game_status == "paused" :
     print("Game in progress..")
 else:
