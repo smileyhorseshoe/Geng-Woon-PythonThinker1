@@ -127,7 +127,7 @@
 #    skipped more than 5 times.
 qualify = 0
 import random
-while True:
+while qualify < 5:
     num1 = random.randint(1 , 10)
     num2 = random.randint(1 , 10)
     ans = num1 + num2
