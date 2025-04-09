@@ -125,6 +125,7 @@
 # 2. Add an ability for users to skip by saying "skip"
 # 3. Disqualify user when they have gotten the wrong answer or
 #    skipped more than 5 times.
+
 qualify = 0
 import random
 while qualify < 5:
