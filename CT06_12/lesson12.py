@@ -26,6 +26,7 @@
 # Visitors already present: 4
 # Max visitors allowed: 25
 # 1a.
+print("1a")
 visitor = 1
 while visitor < 51:
     print("Visitor Count:" + str(visitor))
