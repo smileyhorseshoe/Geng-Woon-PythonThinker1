@@ -13,7 +13,7 @@
 
 # if px <= 5:
 #     print("Sounds good!") 
-# elif px <= 50:
+# elif px <= 50:noten
 #     print("Are you sure you need this?")
 # elif px <= 500:
 #     print("Where are you even getting this money from?!")
