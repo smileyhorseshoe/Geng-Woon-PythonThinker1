@@ -154,4 +154,4 @@
 #    logical operator.
 # 3. If the condition is 'True', print "Game in progress...".
 # 4. Otherwise, print "Game is paused or inactive."
-game
+game_status = "active"
