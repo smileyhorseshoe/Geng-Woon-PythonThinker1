@@ -58,12 +58,29 @@
 # Using an 'if' condition and 'break' within the 'while' loop,
 # modify your answer for Task 1a to terminate the 'while' loop when
 # number of visitors is 30.
-visitorsMax = 50
-presentVisitors = 1
-print("NEW LIMIT: 30.")
-while presentVisitors <= 50:
-    presentVisitors += 1
-    print("Visitor count = " + str(presentVisitors))
-    if presentVisitors == 30:
-         break
-print("Visitors in the venue:" + str(presentVisitors) + "No more visitors as the venue has reached its full capcity!")
+# visitorsMax = 50
+# presentVisitors = 1
+# print("NEW LIMIT: 30.")
+# while presentVisitors <= 50:
+#     presentVisitors += 1
+#     print("Visitor count = " + str(presentVisitors))
+#     if presentVisitors == 30:
+#          break
+# print("Visitors in the venue:" + str(presentVisitors) + "No more visitors as the venue has reached its full capcity!")
+
+# # Task 3: Order taking using while loop
+# Using what you have learnt so far, code a program to take a
+# customer's order.
+
+# Declare a variable called 'order' and assign an empty string
+# variable "" to it.
+
+# Using a 'while' loop:
+# 1. Ask the user to enter their order
+# 2. For each order entered, concatenate to the 'order' variable.
+# 3. Exit the 'while' loop if the user enters "end"
+# 4. On program end, print out the customer's order.
+
+# **Bonus**
+# 1. Modify your code to remove the comma (",") that appears
+#    either at the start or end of your sentence
