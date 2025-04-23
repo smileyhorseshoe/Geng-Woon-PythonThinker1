@@ -15,10 +15,7 @@ t.down()
 # for i in range(6):
 #     t.left(60)
 #     t.forward(50)
-# CIRCLE
-for i in range(1):
-    t.left(1)
-    t.forward(50)
+do
 
 
 
