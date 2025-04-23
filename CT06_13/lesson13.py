@@ -115,7 +115,7 @@
 # HOW TO CHECK IF SOMETHING IS IN THE LIST
 # if [something] in [list name]:
 import random
-winner = [" " ]
+winner = []
 for i in range(10):
     i = random.randint(1 , 9999)
     winner.append(i)
