@@ -29,7 +29,7 @@
 # 1. del(list[3])
 # 2. list[NAME OF LIST].pop(index)
 # HOW TO GET THE SIZE OF LIST
-
+# length = len(list name)
 # Task 2: List of groceries (part 2)
 # 1. Use a 'for' loop and print out all the groceries on your list
 # 2. If grocery == "Apples", print "<grocery name>: I need 5 of these"
