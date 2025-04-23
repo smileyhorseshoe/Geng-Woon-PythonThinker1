@@ -133,8 +133,7 @@ for i in range(10):
     i = random.randint(1 , 9999)
     winners.append(i)
 num = 0
-while num < 11:
+while num < 10:
     num = num + 1
     print("Winner #" , int(num) , winners[num])
-    num = num + 1
 
