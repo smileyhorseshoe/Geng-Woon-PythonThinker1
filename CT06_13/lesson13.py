@@ -155,7 +155,7 @@
 pizzaToppings = ["Mushrooms" , "Pineapple" , "Pepperoni" , "Sausage" ,"Onions", "Bacon" , "BBQ Chicken"]
 print(pizzaToppings)
 while True:
-    pizzatopping = input("Do you want any pizza toppings[Can choose more than one, type End to Terminate.]")
+    pizzatopping = input("Do you want any pizza toppings[Can choose more than one, type End to Terminate, No spaces.]")
     if pizzatopping == "End":
         break
     if pizzatopping in pizzaToppings:
