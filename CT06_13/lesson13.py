@@ -128,9 +128,11 @@
 #     c. Etc...
 
 import random
-winner = []
+winners = []
 for i in range(10):
     i = random.randint(1 , 9999)
     winner.append(i)
-print("Winners #:" + str(i) +  str(winner))
+num = 1
+while num < 10:
+    print("Winners #:" + str(i) +  str(winner))
 
