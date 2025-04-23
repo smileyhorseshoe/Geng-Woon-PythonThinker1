@@ -101,9 +101,11 @@ while True:
     catalog.append(item)
 print("Customer comes in.")
 
-
-customerneed = input("What are you looking for?")
-if customerneed in catalog:
-    print("Yes, we sell that.")
-else:
-    print("Sorry, we dont have that.")
+while True:
+    customerneed = input("What are you looking for?[Type End to terminate.]")
+    if customerneed == "End":
+        break
+        if customerneed in catalog:
+            print("Yes, we sell that.")
+    else:
+        print("Sorry, we dont have that.")
