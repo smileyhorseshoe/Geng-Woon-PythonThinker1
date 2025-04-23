@@ -115,3 +115,4 @@
 # HOW TO CHECK IF SOMETHING IS IN THE LIST
 # if [something] in [list name]:
 import random
+winner = [" " ]
