@@ -114,10 +114,23 @@
 # print("You have bought: " + str(basket))
 # HOW TO CHECK IF SOMETHING IS IN THE LIST
 # if [something] in [list name]:
+
+# Task 5: Lucky draw number generator
+# Create a lucky draw number generator that generates 10 numbers
+# between 1 to 9999.
+
+# 1. Import the 'random' library
+# 2. Using the 'random.randint()' function and a 'for' loop, add 10
+#    random numbers into a list
+# 3. Using another loop, announce the winners in the following format:
+#     a. Winner #1: 5426
+#     b. Winner #2: 3241
+#     c. Etc...
+
 import random
 winner = []
 for i in range(10):
     i = random.randint(1 , 9999)
     winner.append(i)
-print("Winners are: " + "Winners" + i +  str(winner))
+print("Winners #:" + str(i) +  str(winner))
 
