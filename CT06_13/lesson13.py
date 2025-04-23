@@ -132,7 +132,7 @@ winners = []
 for i in range(10):
     i = random.randint(1 , 9999)
     winners.append(i)
-
+winners.append(" ")
 num = 1
 while num < 11:
     print("Winner #" , int(num) , winners[num])
