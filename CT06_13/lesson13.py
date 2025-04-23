@@ -116,3 +116,5 @@
 # if [something] in [list name]:
 import random
 winner = [" " ]
+num1 = random.randint(1 , 10)
+num2 = random.randint(1 , 10)
