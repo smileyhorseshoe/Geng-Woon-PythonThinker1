@@ -12,10 +12,13 @@ t.down()
 #     t.left(90)
 #     t.forward(50)
 # HEXAGON
-for i in range(6):
-    t.left(60)
+# for i in range(6):
+#     t.left(60)
+#     t.forward(50)
+# CIRCLE
+for i in range(1):
+    t.left(90)
     t.forward(50)
-
 
 
 
