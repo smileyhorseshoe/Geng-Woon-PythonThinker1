@@ -1,10 +1,2 @@
 # print("Hello from lesson 14")
-import turtle
-window = turtle.Screen()
-window.setup(width=600, height=400)
-
-
-
-
-
-window.mainloop()
+https://stunning-spork-x5p9vwqg5xv52p7wp-6080.app.github.dev/
