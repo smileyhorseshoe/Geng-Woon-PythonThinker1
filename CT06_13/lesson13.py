@@ -95,7 +95,7 @@ catalog = [ ]
 item = " "
 while True:
     item = input("Input an item you want to add to your store.")
-    if item == "end":
+    if item == "End":
         break
     print("Success! You have added: " + str(item) )
     catalog.append(item)
