@@ -94,7 +94,7 @@
 catalog = [ ]
 item = " "
 while True:
-    item = input("Input an item you want to add to your store.")
+    item = input("Input an item you want to add to your store[Type End to complete.].")
     if item == "End":
         break
     print("Success! You have added: " + str(item) )
