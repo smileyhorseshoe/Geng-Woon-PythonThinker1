@@ -134,6 +134,6 @@ for i in range(10):
     winners.append(i)
 num = 1
 while num < 10:
-    print(int("Winner #") + int(num) + winners[int(num)])
+    print("Winner #" + int(num) + winners[int(num)])
     num =+ 1
 
