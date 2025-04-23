@@ -17,7 +17,7 @@ t.down()
 #     t.forward(50)
 # CIRCLE
 for i in range(1):
-    t.left(90)
+    t.left(1)
     t.forward(50)
 
 
