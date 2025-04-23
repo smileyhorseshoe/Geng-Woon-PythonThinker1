@@ -134,5 +134,5 @@ for i in range(10):
     winner.append(i)
 num = 1
 while num < 10:
-    print("")
+    print("Winner #" + )
 
