@@ -162,5 +162,5 @@ while True:
         print("Added to your pizza.")
         pizzaToppings.append(pizzatopping)
     else:
-        print("")
+        print("Sorry, we dont have that. Try another one?")
 print("Extra Ingredients you've ordered:" , pizzaToppings)
