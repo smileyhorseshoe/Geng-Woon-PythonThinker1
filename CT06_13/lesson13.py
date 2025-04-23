@@ -154,4 +154,4 @@
 # 5. Print the toppings that the user has selected
 pizzaToppings = ["Mushrooms" , "Pineapple" , "Pepperoni" , "Sausage" ,"Onions", "Bacon" , "BBQ Chicken"]
 while True:
-    pizzatopping = input("")
+    pizzatopping = input("Do you want any pizza toppings[Can choose more than one, type End to Terminate.]")
