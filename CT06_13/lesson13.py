@@ -166,5 +166,27 @@
 # print("Extra Ingredients you've ordered:" , pizzaToppings)
 
 
+# 13.6 Teacher solution
+# Step 1: Create a list of pizza toppings
+# pizza_toppings = ["Mushrooms", "Pepperoni", "Pineapple", "Onions", "Sausage", "Bacon", "Extra cheese", "Black olives", "Green peppers", "Fresh garlic"]
+# user_toppings = []
 
+# # Step 2: Use a 'for' loop to print the list of pizza toppings without using len() or enumerate()
+# print("Available pizza toppings:")
+# i = 1  # Manually track the index
+# for topping in pizza_toppings:
+#     print(str(i) + ". " + topping)
+#     i += 1  # Increment the index manually
+
+# # Step 3: Ask the user which pizza topping they want (By index)
+
+# while True:
+#     user_choice = input("Please choose your pizza topping by number: ")
+#     if user_choice == "end":
+#         break
+#     else:
+#         user_toppings.append(pizza_toppings[int(user_choice) - 1])
+
+# for i in user_toppings:
+#     print(i)
 
