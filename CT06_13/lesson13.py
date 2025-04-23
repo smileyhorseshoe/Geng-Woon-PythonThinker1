@@ -91,26 +91,26 @@
 #    Ask the customer: "What are you looking for?"
 # 2. If the item is in the list, say "Yes we sell that."
 # 3. Else, say "Sorry, we don't have that."
-basket = [ ]
-catalog = [ ]
-item = " "
-while True:
-    item = input("Input an item you want to add to your store[Type End to complete.].")
-    if item == "End":
-        break
-    print("Success! You have added: " + str(item) )
-    catalog.append(item)
-print("Customer comes in.")
+# basket = [ ]
+# catalog = [ ]
+# item = " "
+# while True:
+#     item = input("Input an item you want to add to your store[Type End to complete.].")
+#     if item == "End":
+#         break
+#     print("Success! You have added: " + str(item) )
+#     catalog.append(item)
+# print("Customer comes in.")
 
-while True:
-    customerneed = input("What are you looking for?[Type End to terminate.]")
-    if customerneed == "End":
-        break
-    if customerneed in catalog:
-        print("Yes, we sell that.")
-        basket.append(customerneed)
-    else:
-        print("Sorry, we dont have that.")
-print("You have bought: " + str(basket))
+# while True:
+#     customerneed = input("What are you looking for?[Type End to terminate.]")
+#     if customerneed == "End":
+#         break
+#     if customerneed in catalog:
+#         print("Yes, we sell that.")
+#         basket.append(customerneed)
+#     else:
+#         print("Sorry, we dont have that.")
+# print("You have bought: " + str(basket))
 # HOW TO CHECK IF SOMETHING IS IN THE LIST
 # if [something] in [list name]:
