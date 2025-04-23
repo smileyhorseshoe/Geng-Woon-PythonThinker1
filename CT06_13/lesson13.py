@@ -105,7 +105,7 @@ while True:
     customerneed = input("What are you looking for?[Type End to terminate.]")
     if customerneed == "End":
         break
-        if customerneed in catalog:
-            print("Yes, we sell that.")
+    if customerneed in catalog:
+        print("Yes, we sell that.")
     else:
         print("Sorry, we dont have that.")
