@@ -9,7 +9,7 @@ t.seth(0)
 t.down()
 for i in range(4):
     t.forward(50)
-    t.seth()
+    t.seth(-90)
 
 
 
