@@ -90,7 +90,7 @@
 #    Ask the customer: "What are you looking for?"
 # 2. If the item is in the list, say "Yes we sell that."
 # 3. Else, say "Sorry, we don't have that."
-
+basket = [ ]
 catalog = [ ]
 item = " "
 while True:
@@ -107,5 +107,6 @@ while True:
         break
     if customerneed in catalog:
         print("Yes, we sell that.")
+        
     else:
         print("Sorry, we dont have that.")
