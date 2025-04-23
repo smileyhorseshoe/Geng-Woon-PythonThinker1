@@ -113,3 +113,5 @@ while True:
         print("Sorry, we dont have that.")
 print("You have bought: " + str(basket))
 # HOW TO CHECK IF SOMETHING IS IN THE LIST
+# if [something] in [list name]:
+# codecodecode
