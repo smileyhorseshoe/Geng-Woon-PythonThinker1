@@ -120,4 +120,5 @@ for i in range(10):
     i = random.randint(1 , 9999)
     winner.append(i)
 print("Winners are: " + str(winner))
-for i in range(10)
+for i in range(10):
+    print("Winners are:")
