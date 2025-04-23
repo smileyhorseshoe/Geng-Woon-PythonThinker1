@@ -158,4 +158,6 @@ while True:
     pizzatopping = input("Do you want any pizza toppings[Can choose more than one, type End to Terminate.]")
     if pizzatopping == "End":
         break
-    
+    if pizzatopping in pizzaToppings:
+        print("Added to your pizza.")
+        pizzaToppings.append(pizzatopping)
