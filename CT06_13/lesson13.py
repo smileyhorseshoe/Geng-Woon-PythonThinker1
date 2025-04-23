@@ -101,7 +101,7 @@ while True:
     catalog.append(item)
 print("Customer comes in.")
 
-while
+
 customerneed = input("What are you looking for?")
 if customerneed in catalog:
     print("Yes, we sell that.")
