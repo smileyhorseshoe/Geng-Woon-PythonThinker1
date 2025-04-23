@@ -107,6 +107,6 @@ while True:
         break
     if customerneed in catalog:
         print("Yes, we sell that.")
-        
+        basket.append(customerneed)
     else:
         print("Sorry, we dont have that.")
