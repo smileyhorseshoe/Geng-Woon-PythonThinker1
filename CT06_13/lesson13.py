@@ -152,15 +152,15 @@
 #    (By index)
 # 4. Exit the 'while' loop only when the user enters "end"
 # 5. Print the toppings that the user has selected
-pizzaToppings = ["Mushrooms" , "Pineapple" , "Pepperoni" , "Sausage" ,"Onions", "Bacon" , "BBQ Chicken"]
-print(pizzaToppings)
-while True:
-    pizzatopping = input("Do you want any pizza toppings[Can choose more than one, type End to Terminate, No spaces.]")
-    if pizzatopping == "End":
-        break
-    if pizzatopping in pizzaToppings:
-        print("Added to your pizza.")
-        pizzaToppings.append(pizzatopping)
-    else:
-        print("Sorry, we dont have that. Try another one?")
-print("Extra Ingredients you've ordered:" , pizzaToppings)
+# pizzaToppings = ["Mushrooms" , "Pineapple" , "Pepperoni" , "Sausage" ,"Onions", "Bacon" , "BBQ Chicken"]
+# print(pizzaToppings)
+# while True:
+    # pizzatopping = input("Do you want any pizza toppings[Can choose more than one, type End to Terminate, No spaces.]")
+    # if pizzatopping == "End":
+        # break
+    # if pizzatopping in pizzaToppings:
+        # print("Added to your pizza.")
+        # pizzaToppings.append(pizzatopping)
+    # else:
+        # print("Sorry, we dont have that. Try another one?")
+# print("Extra Ingredients you've ordered:" , pizzaToppings)
