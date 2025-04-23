@@ -131,8 +131,8 @@ import random
 winners = []
 for i in range(10):
     i = random.randint(1 , 9999)
-    winner.append(i)
+    winners.append(i)
 num = 1
 while num < 10:
-    print("Winner #" + )
+    print("Winner #" + str(num) + )
 
