@@ -129,7 +129,7 @@
 
 import random
 winners = []
-for i in range(10):
+for i in range(11):
     i = random.randint(1 , 9999)
     winners.append(i)
 num = 0
