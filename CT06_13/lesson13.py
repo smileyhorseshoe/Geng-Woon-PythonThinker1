@@ -118,4 +118,4 @@ import random
 winner = [" " ]
 for i in range(10):
     i = random.randint(1 , 10)
-app
+winner.append(i)
