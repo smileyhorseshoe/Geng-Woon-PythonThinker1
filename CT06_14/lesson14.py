@@ -8,7 +8,7 @@ t.fillcolor("orange")
 t.seth(0)
 t.down()
 for i in range(4):
-    t.seth(90)
+    t.turn(90)
     t.forward(50)
 
 
