@@ -7,8 +7,11 @@ t.shape("turtle")
 t.fillcolor("orange")
 t.seth(0)
 t.down()
-for i in range(4):
-    t.left(90)
+# for i in range(4):
+#     t.left(90)
+#     t.forward(50)
+for i in range(6):
+    t.left(9)
     t.forward(50)
 
 
