@@ -110,5 +110,5 @@ while True:
         basket.append(customerneed)
     else:
         print("Sorry, we dont have that.")
-print("You have bought: " + basket)
+print("You have bought: " + str(basket))
 print(catalog , 5)
