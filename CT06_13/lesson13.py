@@ -161,4 +161,4 @@ while True:
     if pizzatopping in pizzaToppings:
         print("Added to your pizza.")
         pizzaToppings.append(pizzatopping)
-print("Extra Ingredients you've ordered:" , pizz)
+print("Extra Ingredients you've ordered:" , pizzaToppings)
