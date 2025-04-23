@@ -9,6 +9,12 @@ t.seth(0)
 t.down()
 t.left
 t.forward(50)
+t.left
+t.forward(50)
+t.left
+t.forward(50)
+t.left
+t.forward(50)
 
 
 
