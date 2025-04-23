@@ -135,5 +135,5 @@ for i in range(10):
 num = 1
 while num < 10:
     print("Winner #" , int(num) , winners[int(num)])
-    num =+ 1
+    num = num + 1
 
