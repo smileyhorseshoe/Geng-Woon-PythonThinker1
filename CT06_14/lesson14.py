@@ -7,8 +7,7 @@ t.shape("turtle")
 t.fillcolor("orange")
 t.seth(0)
 t.down()
-t.seth(130)
-
+for i in range
 
 
 
