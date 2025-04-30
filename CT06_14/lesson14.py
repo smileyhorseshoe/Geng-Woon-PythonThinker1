@@ -25,6 +25,7 @@ t.penup()
 t.goto(-600 , 0)
 t.pendown()
 t.setx(600)
+penup()
 t.goto(0, -400)
 t.sety(400)
 
