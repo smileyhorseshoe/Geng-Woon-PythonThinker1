@@ -37,6 +37,7 @@ for i in range(10):
     t.penup()
     t.goto(x , y)
     for i in range(3):
+        t.pendown
         t.forward(5)
         t.left(120)
         # t.write("(+ x +" , " + y")
