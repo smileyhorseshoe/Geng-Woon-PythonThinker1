@@ -34,6 +34,7 @@ import random
 for i in range(10):
     x = random.randint(-280, 280)
     y = random.randint(-280, 280)
+    t.penup()
     t.goto(x , y)
     for i in range(3):
         t.forward(5)
