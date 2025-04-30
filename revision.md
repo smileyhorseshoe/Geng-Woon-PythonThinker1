@@ -55,11 +55,11 @@ Expected output:
 20 is a multiple of 5
 
 # Q7 Convert the following for loop into a while loop
-for i in range(100, -1, -10):
+<!-- for i in range(100, -1, -10):
     print(i)
 i = 0
 while i != -1:
     print(i)
-    print
+    i = i - 10 -->
 
 
