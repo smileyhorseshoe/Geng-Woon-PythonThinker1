@@ -22,11 +22,10 @@ t.shape("turtle")
 #     t.forward(1)
 #     t.left(1)
 t.penup()
-t.goto(-400 , 0)
+t.goto(-600 , 0)
 t.pendown()
 t.setx(400)
-t.setx(0)
-t.sety(-400)
+t.goto(0, -400)
 t.sety(400)
 
 
