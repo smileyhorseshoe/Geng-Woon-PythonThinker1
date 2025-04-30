@@ -27,6 +27,7 @@ t.setx(-400)
 t.pendown()
 t.setx(400)
 t.setx(0)
+t.sety
 
 
 
