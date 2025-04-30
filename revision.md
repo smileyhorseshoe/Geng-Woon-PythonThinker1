@@ -24,7 +24,7 @@ if num = 5:
     print("Hello")
 else:
     print("Bye)
-
+Output: Hello
 # Q6 What is the result?
 students = ["Geng Woon", "Darissa", "Walden", "Guhaan"]
 students.append("Tyler")
