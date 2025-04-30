@@ -40,7 +40,7 @@ for i in range(10):
         t.pendown()
         t.forward(5)
         t.left(90)
-        # t.write("(+ x +" , " + y")
+        t.write()
         #(5, 10)
 
 
