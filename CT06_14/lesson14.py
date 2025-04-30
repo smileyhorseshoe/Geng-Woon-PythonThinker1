@@ -113,7 +113,4 @@ t.goto(-300 , -200)
 
 
 
-
-
-
 window.mainloop()
