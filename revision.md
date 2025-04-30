@@ -60,6 +60,6 @@ for i in range(100, -1, -10):
 i = 0
 while i != -1:
     print(i)
-    
+    print
 
 
