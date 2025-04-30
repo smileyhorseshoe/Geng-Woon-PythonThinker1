@@ -35,7 +35,6 @@ students.pop()
 del(students[0])
 students.pop(len(students) - 1)
 print(students)
-Xinxi
 Geng Woon
 Darissa
 Walden
