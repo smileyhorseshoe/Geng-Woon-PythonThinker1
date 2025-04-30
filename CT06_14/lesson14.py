@@ -37,7 +37,7 @@ for i in range(10):
     y = random.randint(-280, 280)
     t.goto(x , y)
     for i in range(3):
-        t.pendown
+        t.pendown()
         t.forward(5)
         t.left(120)
         # t.write("(+ x +" , " + y")
