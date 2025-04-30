@@ -32,10 +32,10 @@ t.shape("turtle")
 # t.sety(200)
 import random
 for i in range(10):
+    t.penup()
     x = random.randint(-280, 280)
     y = random.randint(-280, 280)
     t.goto(x , y)
-    t.penup()
     for i in range(3):
         t.pendown
         t.forward(5)
