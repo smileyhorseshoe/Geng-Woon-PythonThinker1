@@ -12,3 +12,4 @@ elif 1 != 0:
 else:
     print("C")
 C
+[No input detected..]
