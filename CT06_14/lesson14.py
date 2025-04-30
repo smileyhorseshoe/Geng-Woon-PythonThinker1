@@ -26,7 +26,7 @@ t.speed(50)
 
 
 
-window.mainloop
+window.mainloop()
 
 
 
