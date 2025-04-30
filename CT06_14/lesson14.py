@@ -31,8 +31,8 @@ t.shape("turtle")
 # t.pendown()
 # t.sety(200)
 import random
-
-
+for i in range(10):
+    sety
 
 
 
