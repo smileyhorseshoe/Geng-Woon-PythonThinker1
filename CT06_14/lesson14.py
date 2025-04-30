@@ -32,8 +32,8 @@ t.shape("turtle")
 # t.sety(200)
 import random
 for i in range(10):
-    sety
-
+    setx = random.randint(-280, 280)
+    sety = random.
 
 
 
