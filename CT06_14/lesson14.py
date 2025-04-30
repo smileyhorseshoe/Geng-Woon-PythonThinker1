@@ -24,7 +24,7 @@ t.shape("turtle")
 t.penup()
 t.goto(-600 , 0)
 t.pendown()
-t.setx(400)
+t.setx(600)
 t.goto(0, -400)
 t.sety(400)
 
