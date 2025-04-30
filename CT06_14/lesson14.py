@@ -10,6 +10,7 @@ t.shape("turtle")
 #     t.left(72)
 for i in range(3):
     t.forward(50)
+    t.left(120)
 
 
 
