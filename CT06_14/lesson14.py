@@ -39,7 +39,7 @@ for i in range(10):
     for i in range(3):
         t.forward(5)
         t.left(120)
-        t.write(x)
+        t.write("(+ x)
         #(5, 10)
 
 
