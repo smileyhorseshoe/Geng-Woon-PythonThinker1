@@ -25,7 +25,7 @@ t.speed(50)
 
 
 
-
+winow.mainloop
 
 
 
