@@ -17,11 +17,17 @@ t.shape("turtle")
 # for i in range(6):
 #     t.forward(50)
 #     t.left(60)
-Circles
+# Circles
+# for i in range(360):
+#     t.forward(1)
+#     t.left(1)
+
+
+
+
 for i in range(360):
     t.forward(1)
     t.left(1)
-
 
 
 
