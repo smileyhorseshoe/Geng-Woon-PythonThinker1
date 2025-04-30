@@ -6,8 +6,8 @@ t = turtle.Turtle()
 t.fillcolor("orange")
 t.shape("turtle")
 for i in range(5):
-    t.left(72)
     t.forward(50)
+    t.left(72)
 
 
 
