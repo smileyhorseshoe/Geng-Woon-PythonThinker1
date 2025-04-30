@@ -5,10 +5,11 @@ window.setup(width=600, height=400)
 t = turtle.Turtle()
 t.fillcolor("orange")
 t.shape("turtle")
-for i in range(5):
-    t.forward(50)
-    t.left(72)
-
+# for i in range(5):
+#     t.forward(50)
+#     t.left(72)
+for i in range(360):
+    
 
 
 
