@@ -9,6 +9,7 @@ t.shape("turtle")
 # for i in range(5):
 #     t.forward(50)
 #     t.left(72)
+# Square
 # for i in range(3):
 #     t.forward(50)
 #     t.left(120)
