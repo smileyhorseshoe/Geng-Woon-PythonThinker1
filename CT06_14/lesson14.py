@@ -18,7 +18,8 @@ t.shape("turtle")
 #     t.forward(50)
 #     t.left(60)
 for i in range(360):
-    t.forward
+    t.forward(1)
+    t.left(1)
 
 
 
