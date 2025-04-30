@@ -22,14 +22,15 @@ t.shape("turtle")
 #     t.forward(1)
 # #     t.left(1)
 # CROSSHAIR[ALPHA]
-t.penup()
-t.goto(-300 , 0)
-t.pendown()
-t.setx(300)
-t.penup()
-t.goto(0, -200)
-t.pendown()
-t.sety(200)
+# t.penup()
+# t.goto(-300 , 0)
+# t.pendown()
+# t.setx(300)
+# t.penup()
+# t.goto(0, -200)
+# t.pendown()
+# t.sety(200)
+import random
 
 
 
