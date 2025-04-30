@@ -17,7 +17,7 @@ else:
 # Q4 What is the output of this?
 num = 5
 print("The num is " + num)
-
+Type Error
 # Q5 What is the output of this?
 num = 5
 if num = 5:
