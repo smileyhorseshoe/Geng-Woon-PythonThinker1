@@ -21,7 +21,7 @@ t.shape("turtle")
 # for i in range(360):
 #     t.forward(1)
 # #     t.left(1)
-# 
+# CROSSHAIR[ALPHA]
 # t.penup()
 # t.goto(-600 , 0)
 # t.pendown()
