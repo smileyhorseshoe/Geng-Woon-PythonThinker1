@@ -13,6 +13,10 @@ t.shape("turtle")
 # for i in range(3):
 #     t.forward(50)
 #     t.left(120)
+# Hexagon
+for i in range(6):
+    t.forward(50)
+    t.left(72)
 
 
 
