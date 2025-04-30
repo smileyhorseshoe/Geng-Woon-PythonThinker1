@@ -43,6 +43,7 @@ Guhaan
 Tyler
 Ebenezer
 
+
 # Q7 Using a while loop, print out all the multiples of 3 and 5 that are less than or equal to 20
 Expected output:
 3 is a multiple of 3
