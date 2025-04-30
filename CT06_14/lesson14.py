@@ -40,8 +40,8 @@ for i in range(10):
         t.pendown()
         t.forward(5)
         t.left(90)
-        text = "x, y" # (-10, 50)
-        t.write(text)
+    text = "x, y" # (-10, 50)
+    t.write(text)
 
 
 
