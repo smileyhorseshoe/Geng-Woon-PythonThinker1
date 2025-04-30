@@ -43,7 +43,8 @@ for i in range(10):
         t.left(90)
     text = x , y # (-10, 50)
     t.write(text , align="center")
-
+t.penup()
+t.goto(-300 , -200)
 
 
 
