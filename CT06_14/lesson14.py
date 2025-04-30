@@ -36,7 +36,7 @@ for i in range(10):
     x = random.randint(-280, 280)
     y = random.randint(-280, 280)
     y = y - 40
-    t.goto(x)
+    t.goto(x , y)
     for i in range(4):
         t.pendown()
         t.forward(5)
