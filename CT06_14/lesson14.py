@@ -23,6 +23,7 @@ t.shape("turtle")
 #     t.left(1)
 t.penup()
 t.sety(0)
+t.setx(-400)
 
 
 
