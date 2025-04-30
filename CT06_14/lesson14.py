@@ -12,7 +12,7 @@ t.shape("turtle")
 # Square
 # for i in range(3):
 #     t.forward(50)
-#     t.left(120)
+#     t.left(90)
 # Hexagon
 # for i in range(6):
 #     t.forward(50)
@@ -39,7 +39,7 @@ for i in range(10):
     for i in range(3):
         t.pendown()
         t.forward(5)
-        t.left(120)
+        t.left(90)
         # t.write("(+ x +" , " + y")
         #(5, 10)
 
