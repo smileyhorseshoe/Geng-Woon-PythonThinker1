@@ -3,7 +3,7 @@ print(5 * 10 == 50)
 True
 # Q2 What is the output of this?
 print("5" * 10 == 50)
-False[]
+False[Type Error; Can]
 # Q3 What is the output of this?
 if 5 == 5:
     print("A")
