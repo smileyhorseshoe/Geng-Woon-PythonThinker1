@@ -34,7 +34,8 @@ import random
 for i in range(10):
     setx = random.randint(-280, 280)
     sety = random.randint(-280, 280)
-    
+    t.goto(setx , sety)
+    for 
 
 
 
