@@ -60,24 +60,6 @@ t.shape("turtle")
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 window.mainloop()
 
 
