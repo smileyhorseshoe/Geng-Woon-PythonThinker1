@@ -25,6 +25,6 @@ planets.append("neptune")
 planets[3] = "muskworld"
 # Q4:
 planets.pop(6)
-print("List of Planets")
+# Q5:
 for i in planets:
     print(i)
