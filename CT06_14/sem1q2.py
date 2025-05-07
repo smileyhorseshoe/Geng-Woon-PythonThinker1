@@ -21,4 +21,3 @@ planets.append("neptune")
 planets.remove("mars")
 planets.insert(3, "muskworld")
 planets.remove
-planets.sort
