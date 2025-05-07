@@ -18,5 +18,5 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[2])
 
 planets.append("neptune")
-planets.append("mars")
+planets.remove("mars")
 planets.insert([3] , str("hi"))
