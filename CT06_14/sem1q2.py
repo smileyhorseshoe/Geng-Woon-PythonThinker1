@@ -19,4 +19,4 @@ print(planets[2])
 
 planets.append("neptune")
 planets.remove("mars")
-planets.insert("test"[3])
+planets.insert([3], "tets")
