@@ -7,8 +7,9 @@
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
 
-num1 = 10
+num1 = 0
 while num1 < 200:
     if num1 % 10 == 0:
+        num1 = num1 + 10
         print(num1)
 
