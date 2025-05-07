@@ -18,6 +18,6 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 
 print(planets[2])
 planets.append("neptune")
-planets.remove("mars")
+planets("mars")
 planets.insert(3, "muskworld")
-planets.remove
+planets.
