@@ -12,4 +12,4 @@ while num1 < 200:
         print(num1)
     else:
         num1 += 10
-    
+        print(num1)
