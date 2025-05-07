@@ -14,9 +14,9 @@
 
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
-# Question 1:
+# Q1:
 print(planets[2])
-# Q2
+# Q2:
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 planets.append("neptune")
 planets[3] = "muskworld"
