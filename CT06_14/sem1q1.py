@@ -9,4 +9,7 @@
 num1 = 10
 while num1 < 200:
     if num1 % 10 == 0:
-        
+        print(num1)
+    else:
+        num1 += 10
+    
