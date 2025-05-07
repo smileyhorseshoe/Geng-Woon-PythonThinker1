@@ -14,6 +14,8 @@
 
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
+
+# Defining the list
 planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 # Q1:
 print(planets[2])
