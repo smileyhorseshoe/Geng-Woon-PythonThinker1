@@ -14,10 +14,10 @@
 
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
+planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 # Q1:
 print(planets[2])
 # Q2:
-planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 planets.append("neptune")
 planets[3] = "muskworld"
 planets.pop(6)
