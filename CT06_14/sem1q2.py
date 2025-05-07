@@ -17,4 +17,4 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 #    from this list one by one.
 print(planets[2])
 
-planets.append("nept")
+planets.append("neptune")
