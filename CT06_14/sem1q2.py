@@ -19,5 +19,5 @@ print(planets[2])
 
 planets.append("neptune")
 planets.append("mars")
-planets.insert("muskworld" , [3])
+planets.insert([3] , 5)
 planets.remove([6])
