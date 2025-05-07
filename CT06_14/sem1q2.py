@@ -20,4 +20,4 @@ print(planets[2])
 planets.append("neptune")
 planets("mars")
 planets.insert(3, "muskworld")
-planets.remove
+planets.pop()
