@@ -19,3 +19,4 @@ print(planets[2])
 
 planets.append("neptune")
 planets.append("mars")
+planets.insert[]
