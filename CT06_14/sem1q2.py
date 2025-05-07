@@ -1,4 +1,3 @@
-planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 # 1. Write code below to print the 3rd item 
 #    in this list using index e.g. earth
 #  planets = mercury, venus, earth, muskworld, jupiter, saturn, neptune
@@ -16,6 +15,7 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
 
+planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[2])
 planets.append("neptune")
 planets[3] = "muskworld"
