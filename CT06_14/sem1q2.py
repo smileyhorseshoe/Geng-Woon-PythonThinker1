@@ -16,8 +16,7 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
 print(planets[2])
-
 planets.append("neptune")
 planets.remove("mars")
 planets.insert(3, "muskworld")
-
+planets.remove
