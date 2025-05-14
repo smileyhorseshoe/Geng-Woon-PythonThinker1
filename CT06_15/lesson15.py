@@ -17,5 +17,15 @@
 #         "I don't think you belong here..."
 def greetings():
     whatistheirname = input("What is your name?")
-
-
+def Ethan():
+    print("Hi Eathen. How are you?")
+def Friends(): 
+    print("Hi there!")
+    print("My name is Freddo")
+    print("I like to eat chicken wings!)")
+    print("Nice to meet you!")
+def unknown():
+    print("I don't think you belong here... GET OUT!")
+if whatistheirname == "Ethan":
+    Ethan()
+elif:
