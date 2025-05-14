@@ -49,3 +49,4 @@ def increment():
 
 for i in range(3):
     increment()
+print(increment)
