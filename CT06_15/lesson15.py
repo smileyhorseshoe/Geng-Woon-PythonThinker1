@@ -45,6 +45,7 @@
 
 counter = 0
 def increment():
+    global counter
     counter += 1
 for i in range(3):
     increment()
