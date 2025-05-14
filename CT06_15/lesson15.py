@@ -15,18 +15,17 @@
 #         "Nice to meet you!"
 # 3. If the person is none of the above, say:
 #         "I don't think you belong here..."
-def greetings():
-    name = input("What is your name?")
-def Ethan():
-    print("Hi Eathen. How are you?")
-def Friends(): 
-    print("Hi there!")
-    print("My name is Freddo")
-    print("I like to eat chicken wings!)")
-    print("Nice to meet you!")
-def unknown():
-    print("I don't think you belong here... GET OUT!")
-if name == "Ethan":
-    Ethan()
-elif name == "Ben":
-    trjh
+# def greetings():
+#     name = input("What is your name?")
+# def Ethan():
+#     print("Hi Eathen. How are you?")
+# def Friends(): 
+#     print("Hi there!")
+#     print("My name is Freddo")
+#     print("I like to eat chicken wings!)")
+#     print("Nice to meet you!")
+# def unknown():
+#     print("I don't think you belong here... GET OUT!")
+# if name == "Ethan":
+#     Ethan()
+# elif name == "Ben":
