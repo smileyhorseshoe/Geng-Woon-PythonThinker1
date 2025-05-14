@@ -105,3 +105,5 @@ import random
 for i in range(10):
     random.randint(1, 100000000)
     num.append(i)
+for i in num:
+    isEven(num)
