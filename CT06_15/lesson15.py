@@ -42,3 +42,6 @@
 # 4. 3 times before printing out the value of the 'counter' variable.
 
 # Your output should be "3"
+def increment():
+    global counter
+    counter = 0
