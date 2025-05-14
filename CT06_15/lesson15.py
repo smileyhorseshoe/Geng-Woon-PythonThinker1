@@ -45,3 +45,4 @@
 def increment():
     global counter
     counter = 0
+    counter += 1
