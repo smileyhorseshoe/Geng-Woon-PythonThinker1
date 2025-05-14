@@ -46,4 +46,4 @@ def increment():
     global counter
     counter = 0
     counter += 1
-print(i))
+print(counter)
