@@ -98,10 +98,10 @@
 #     "3 is an odd number"
 #     "9 is an odd number"
 #     "2 is an even number"
-
+num = [ ]
 def isEven(number):
     print(number % 2 == 0)
 import random
 for i in range(10):
     random.randint(1, 100000000)
-    isEven.append(i)
+    num.append(i)
