@@ -100,6 +100,6 @@
 #     "2 is an even number"
 import random
 for i in range(10):
-    
+    random.randint(1, 100000000)
 def isEven(number):
     print(number % 2 == 0)
