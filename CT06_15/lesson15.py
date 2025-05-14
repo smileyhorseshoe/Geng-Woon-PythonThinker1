@@ -43,10 +43,10 @@
 
 # Your output should be "3"
 
-counter = 0
-def increment():
-    global counter
-    counter += 1
-for i in range(3):
-    increment()
-print(counter)
+# counter = 0
+# def increment():
+#     global counter
+#     counter += 1
+# for i in range(3):
+#     increment()
+# print(counter)
