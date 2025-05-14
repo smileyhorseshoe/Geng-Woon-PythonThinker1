@@ -50,3 +50,17 @@
 # for i in range(3):
 #     increment()
 # print(counter)
+
+## Task 5: Double the Number
+# Create a function that takes in a number and doubles it
+
+# 1. Create a function named 'doubleNumber()'
+# 2. The function should return the doubled number
+# 3. Using the 'doubleNumber()' function, print the doubles of the
+#    following numbers:
+#     4
+#     9
+#     1530
+#     284
+def Doublenumber(number):
+    
