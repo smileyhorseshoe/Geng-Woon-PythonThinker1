@@ -63,7 +63,7 @@
 #     1530
 #     284
 def Doublenumber(number):
-    number = number * 2
+    number = number * 2 
     print(number)
 
 uinum = int(input("What is the number that you want to double?"))
