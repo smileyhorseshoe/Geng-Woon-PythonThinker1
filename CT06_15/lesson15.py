@@ -62,7 +62,7 @@
 #     9
 #     1530
 #     284
-def Doublenumber(number):
+def doubleNumber(number):
     number = number * 2 
     print(number)
 
