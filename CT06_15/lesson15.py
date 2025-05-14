@@ -66,3 +66,4 @@ def Doublenumber(number):
     number = number * 2
     print(number)
 
+uinum = int(input)
