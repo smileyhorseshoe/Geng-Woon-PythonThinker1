@@ -70,9 +70,6 @@ uinum = int(input("What is the number that you want to double?"))
 doubleNumber(uinum)
 
 
-stepover
-stepover
-
 
 
 
