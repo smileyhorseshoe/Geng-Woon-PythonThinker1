@@ -42,8 +42,10 @@
 # 4. 3 times before printing out the value of the 'counter' variable.
 
 # Your output should be "3"
+global counter
+counter = 0
 def increment():
-    global counter
-    counter = 0
     counter += 1
+for i in range(3):
+    increment()
 print(counter)
