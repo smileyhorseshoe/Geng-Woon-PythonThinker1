@@ -107,3 +107,4 @@ for i in range(10):
     num.append(i)
 for i in num:
     isEven(i)
+    
