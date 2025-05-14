@@ -80,8 +80,7 @@
 # 4. Using the 'greet()' function, print the greeting
 
 def greet(name):
-    input("What is your name?")
     print("Hello there," + name + "!")
 
 
-greet()
+greet(input("What is your name?"))
